@@ -1,1349 +1,1349 @@
-First Priority,Second Priority,Third Priority,Score
-BSIT-Automotive,BSIT-Electronics,BSInfoTech,36
-BSHM,BEED,BSInfoTech,37
-BSHM,BSInfoTech,BEED,52
-BSIT-Electricity,BSIT-Automotive,BSInfoTech,29
-BSInfoTech,BSHM,BSIT-Electricity,28
-BSED-Soc Stud,BSInfoTech,BSHM,48
-BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,30
-BSHM,BSInfoTech,BSED-English,32
-BSHM,BSInfoTech,BEED,41
-BSHM,BSInfoTech,BSIT-Electronics,36
-BSInfoTech,BEED,BSIT-Drafting,35
-BSInfoTech,BSHM,BSIT-Automotive,55
-BSInfoTech,BSIT-Electricity,BSIT-Drafting,37
-BSIT-Electronics,BSIT-Electricity,BSHM,44
-BSHM,BSInfoTech,BEED,32
-BSIT-Automotive,BSHM,BSIT-Electricity,30
-BEED,BSED-Soc Stud,BSIT-Automotive,39
-BSED-English,BSHM,BSInfoTech,36
-BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,29
-BSHM,BSED-English,,31
-BSInfoTech,BSHM,BSED-Filipino,73
-BSHM,BSED-Soc Stud,BSInfoTech,34
-BSInfoTech,BSED-English,BSHM,51
-BSInfoTech,BSIT-Electronics,,41
-BSED-English,BSHM,BSInfoTech,55
-BSInfoTech,BSED-English,BSED-Filipino,62
-BSHM,BSInfoTech,BSIT-Electronics,61
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,34
-BSHM,BSInfoTech,BSED-Soc Stud,39
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,32
-BSIT-Automotive,BSED-Filipino,BSED-Soc Stud,31
-BSHM,BSED-Soc Stud,BSIT-Drafting,30
-BSHM,BEED,BSED-Filipino,23
-BSIT-Electricity,BSIT-Automotive,,48
-BSED-Math,BSIT-Drafting,BSHM,69
-BSED-Soc Stud,BSED-English,BSED-Filipino,42
-BSHM,BSInfoTech,BSIT-Electricity,44
-BEED,BSED-Filipino,BSHM,28
-BSED-Filipino,BSED-Soc Stud,BSHM,53
-BSInfoTech,BSHM,BSIT-Electronics,33
-BSIT-Electricity,BSIT-Drafting,BSIT-Electronics,23
-BSIT-Electricity,BSIT-Automotive,BSHM,29
-BSIT-Drafting,BSInfoTech,BSHM,19
-BSED-Filipino,BSED-English,BEED,38
-BSInfoTech,BSED-Filipino,BSIT-Drafting,32
-BSHM,BSInfoTech,BSIT-Drafting,35
-BSED-Filipino,BSIT-Drafting,BSIT-Electricity,40
-BSED-Filipino,BSED-Soc Stud,BSInfoTech,38
-BSED-Filipino,BSED-English,BEED,59
-BSED-Filipino,BEED,BSED-Soc Stud,30
-BSHM,BSED-English,BSED-Filipino,40
-BSHM,BSED-Filipino,BEED,44
-BSHM,BSED-Math,BSInfoTech,26
-BSHM,BEED,BSInfoTech,34
-BSED-Filipino,BSInfoTech,BSIT-Electricity,28
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,35
-BSHM,BEED,BSIT-Drafting,34
-BSHM,BSIT-Electricity,BSIT-Automotive,27
-BSED-English,BSED-Filipino,BSED-Soc Stud,32
-BSHM,BSED-English,BEED,42
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,33
-BSHM,BEED,BSInfoTech,35
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,45
-BSIT-Drafting,BSIT-Electronics,BSIT-Electricity,37
-BSHM,,,84
-BSHM,BSIT-Electricity,BSIT-Automotive,45
-BSHM,BSED-Math,BSED-English,58
-BSHM,BEED,BSED-Soc Stud,45
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,26
-BSED-Filipino,BSED-Soc Stud,BEED,36
-BSED-Filipino,BSIT-Drafting,BSED-Math,84
-BSInfoTech,BSED-Filipino,BSHM,36
-BSED-Filipino,BSED-English,BSED-Math,35
-BSHM,BEED,,32
-BSHM,BSIT-Automotive,BSIT-Electricity,36
-BEED,BSIT-Electronics,BSHM,26
-BSED-Soc Stud,BSHM,BSIT-Electricity,48
-BSHM,BSIT-Electronics,BSED-Filipino,30
-BSIT-Electricity,BSIT-Automotive,BSED-Soc Stud,22
-BSHM,BEED,BSInfoTech,36
-BSHM,BSInfoTech,BEED,28
-BEED,BSInfoTech,BSED-English,33
-BEED,BSED-Math,BSHM,41
-BSInfoTech,BSHM,BEED,37
-BSHM,BSIT-Automotive,BSIT-Electricity,42
-BSIT-Drafting,BSIT-Electronics,BSIT-Automotive,25
-BSED-Filipino,BSIT-Drafting,BSIT-Automotive,38
-BSIT-Automotive,BSIT-Electricity,BSHM,27
-BSIT-Drafting,BSInfoTech,BSIT-Automotive,30
-BSHM,BSED-Filipino,BSED-English,28
-BSIT-Electronics,BSIT-Electricity,BSInfoTech,30
-BEED,BSED-Filipino,BSED-Soc Stud,32
-BSED-Filipino,BSHM,BEED,24
-BSHM,BEED,BSED-Filipino,33
-BEED,BSHM,BSED-Filipino,27
-BSED-Filipino,BSED-English,BSED-Soc Stud,31
-BSHM,BSInfoTech,BSIT-Drafting,28
-BSIT-Drafting,BSInfoTech,BSHM,32
-BSIT-Automotive,BSED-Filipino,BSInfoTech,36
-BSHM,BSIT-Automotive,,35
-BSHM,BSInfoTech,BEED,44
-BSIT-Automotive,BEED,BSED-Soc Stud,23
-BEED,BSED-Filipino,BSED-English,33
-BSHM,BSED-Filipino,BSInfoTech,42
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,33
-BSHM,BSIT-Automotive,BSIT-Electricity,36
-BSED-English,BEED,BSHM,49
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,30
-BSHM,BSIT-Automotive,BSED-Filipino,28
-BSHM,,,32
-BSHM,BSED-Soc Stud,BEED,40
-BSHM,BSED-Filipino,BSED-Soc Stud,35
-BSHM,BSInfoTech,BEED,39
-BEED,BSED-Soc Stud,BSED-English,29
-BSHM,BSIT-Drafting,BSIT-Automotive,35
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,33
-BEED,BSED-Filipino,BSHM,31
-BEED,BSHM,BSED-Filipino,39
-BSED-English,BSHM,BSED-Filipino,57
-BSHM,BSInfoTech,BEED,25
-BSIT-Automotive,BSIT-Electronics,,36
-BSHM,BSIT-Automotive,BSIT-Electricity,33
-BSIT-Automotive,BSHM,BSIT-Electronics,30
-BSHM,BSIT-Drafting,BSED-Filipino,32
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,40
-BEED,BSED-Soc Stud,BSHM,45
-BSIT-Electricity,BSED-English,BSHM,41
-BSED-English,BSHM,BSInfoTech,37
-BSInfoTech,BSIT-Drafting,BSIT-Automotive,31
-BSInfoTech,BSHM,BSIT-Drafting,30
-BSHM,BSED-Filipino,BSInfoTech,29
-BSED-Filipino,BEED,BSED-Soc Stud,28
-BSHM,BSInfoTech,BSED-Filipino,34
-BSED-Filipino,BSED-Soc Stud,BSHM,43
-BSED-English,BSED-Filipino,BSHM,25
-BEED,BSHM,BSED-Soc Stud,35
-BSED-Filipino,BSED-English,BSHM,33
-BSHM,BEED,BSED-Filipino,32
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,32
-BSHM,BSInfoTech,BEED,24
-BSIT-Automotive,BSIT-Drafting,BSIT-Electronics,29
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,15
-BSED-Math,BEED,,41
-BSED-English,BSED-Filipino,BSED-Math,25
-BSHM,BSInfoTech,BSED-Filipino,35
-BSED-Filipino,BSHM,BSED-English,37
-BSED-Filipino,BSED-Soc Stud,BEED,25
-BSHM,BSInfoTech,BEED,34
-BSIT-Automotive,BSIT-Drafting,BSInfoTech,27
-BSInfoTech,BSHM,BSED-Math,44
-BSED-Soc Stud,BEED,BSIT-Electronics,55
-BSED-Filipino,BEED,BSHM,37
-BSED-Filipino,BSIT-Automotive,BSIT-Electricity,30
-BSHM,BSED-Filipino,BEED,50
-BSIT-Drafting,BSIT-Automotive,BSHM,28
-BSED-Filipino,BSED-Soc Stud,BSHM,37
-BSHM,BSIT-Electricity,BSInfoTech,35
-BSED-Math,BSED-Filipino,BEED,51
-BSED-English,BSED-Filipino,BSHM,37
-BEED,BSED-Filipino,BSED-Soc Stud,34
-BSHM,BSIT-Drafting,BSInfoTech,74
-BEED,BSED-Filipino,BSED-English,23
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,27
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,41
-BSHM,BEED,BSIT-Electronics,29
-BEED,BSED-Soc Stud,BSED-Filipino,24
-BSHM,BSED-Soc Stud,BSInfoTech,26
-BSED-Filipino,BEED,BSIT-Electronics,26
-BEED,BSHM,BSInfoTech,32
-BSED-Filipino,BSED-Soc Stud,BSED-English,40
-BSIT-Automotive,BSIT-Electricity,BSHM,24
-BSHM,BEED,BSInfoTech,40
-BSIT-Automotive,BSIT-Electricity,BSHM,34
-BSED-Filipino,BSED-English,BSInfoTech,38
-BSHM,BSInfoTech,BSED-Filipino,35
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,34
-BSIT-Electricity,BSIT-Automotive,BSIT-Drafting,26
-BSED-Filipino,BEED,BSED-English,30
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,24
-BEED,BSHM,BSInfoTech,29
-BEED,BSED-Math,BSED-Soc Stud,44
-BSInfoTech,BSIT-Automotive,BSHM,49
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,26
-BSED-Filipino,BSED-English,BEED,35
-BSInfoTech,BSHM,BSED-Math,40
-BSED-English,BSED-Soc Stud,BSED-Filipino,34
-BSIT-Automotive,BSInfoTech,BSIT-Electricity,37
-BSHM,BSIT-Automotive,BSIT-Electricity,35
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,43
-BSED-Filipino,BSInfoTech,BSHM,28
-BSInfoTech,BSIT-Electricity,BSIT-Electronics,29
-BSED-Soc Stud,BSED-English,BSHM,43
-BSHM,BSED-Filipino,BSInfoTech,62
-BSInfoTech,BSED-Filipino,BEED,35
-BSED-English,BSInfoTech,BSED-Filipino,55
-BSHM,BSED-Filipino,BSInfoTech,27
-BSED-English,BSHM,BSInfoTech,37
-BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,30
-BSED-Soc Stud,BSED-Filipino,BSHM,47
-BEED,BSED-English,BSED-Soc Stud,69
-BSIT-Drafting,BEED,BSHM,37
-BSED-Soc Stud,BSED-English,BSED-Filipino,69
-BSHM,BSIT-Automotive,BSED-Filipino,35
-BSIT-Automotive,BSIT-Electricity,BSHM,35
-BSIT-Electronics,BSIT-Automotive,BSHM,24
-BSHM,BEED,BSED-Filipino,40
-BSHM,BSInfoTech,BSIT-Drafting,32
-BSHM,BSIT-Automotive,BSIT-Electricity,26
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,32
-BSHM,BSInfoTech,BSIT-Automotive,46
-BEED,BSIT-Drafting,BSHM,37
-BSInfoTech,BSHM,BSED-Filipino,29
-BSInfoTech,BSIT-Electricity,BSIT-Electronics,26
-BSED-English,BSED-Filipino,BSED-Soc Stud,43
-BSED-Math,BSED-English,BSED-Soc Stud,39
-BSInfoTech,BSIT-Automotive,BSHM,37
-BSED-Math,BSHM,BSInfoTech,52
-BSED-Math,BEED,,34
-BSIT-Drafting,BSIT-Automotive,BSIT-Electronics,35
-BSInfoTech,BSED-English,BSHM,42
-BSHM,BSED-Math,BSInfoTech,26
-BSED-Filipino,BSED-English,BEED,46
-BSInfoTech,BSED-Filipino,BSHM,31
-BSED-Math,BSED-English,BSHM,54
-BSIT-Electronics,BSIT-Automotive,BSIT-Electricity,31
-BSED-English,BSED-Filipino,BSHM,36
-BSIT-Automotive,BSIT-Drafting,BSIT-Electricity,35
-BSED-Soc Stud,BSED-Filipino,BSED-English,66
-BSED-English,BSHM,BSInfoTech,44
-BSHM,BSIT-Electricity,BSIT-Automotive,48
-BSHM,BSInfoTech,BSIT-Automotive,38
-BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,34
-BSED-Filipino,BEED,BSED-English,32
-BSHM,BSInfoTech,BEED,36
-BSED-Filipino,BEED,BSED-Soc Stud,35
-BSED-Filipino,BEED,BSInfoTech,30
-BSInfoTech,BSHM,BSIT-Automotive,49
-BEED,BSHM,BSED-Filipino,42
-BSInfoTech,BSIT-Electricity,BSIT-Electronics,31
-BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,36
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,32
-BSHM,BSInfoTech,BSIT-Automotive,27
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,23
-BSHM,BSIT-Electronics,BSIT-Automotive,31
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,32
-BSED-Filipino,BEED,BSHM,49
-BSHM,BSInfoTech,BSIT-Drafting,29
-BSED-English,BSED-Soc Stud,BSInfoTech,34
-BSInfoTech,BSHM,BSIT-Electronics,48
-BSInfoTech,BEED,BSED-Filipino,28
-BSHM,BSInfoTech,BSED-English,37
-BSED-English,BSHM,BSED-Filipino,47
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,33
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,22
-BSED-Soc Stud,BSED-Math,BEED,56
-BSED-Soc Stud,BSHM,BEED,42
-BSHM,BSInfoTech,BSIT-Electricity,27
-BSHM,BSIT-Automotive,BSInfoTech,32
-BSHM,BSInfoTech,BSIT-Electricity,29
-BSED-English,BSED-Soc Stud,BSED-Filipino,39
-BSED-Soc Stud,BSHM,BSED-English,29
-BSED-Filipino,BSED-Soc Stud,BSED-Math,44
-BSHM,BSInfoTech,BSED-Soc Stud,33
-BSHM,BSInfoTech,BSIT-Electricity,33
-BEED,BSED-Filipino,BSHM,45
-BSIT-Automotive,,,36
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,23
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,31
-BSHM,BSIT-Electronics,BSInfoTech,46
-BSED-Math,BSIT-Electricity,BEED,35
-BSHM,BSED-Math,BSInfoTech,65
-BSED-Math,BSHM,BEED,24
-BSHM,BSIT-Electronics,BSInfoTech,31
-BSIT-Automotive,BSIT-Electronics,BSIT-Drafting,34
-BSHM,BSED-Soc Stud,BSInfoTech,35
-BSED-Filipino,BEED,BSED-Soc Stud,28
-BSHM,BSED-Soc Stud,BSInfoTech,26
-BSIT-Electronics,BSHM,BSIT-Automotive,23
-BSED-English,BSED-Filipino,BEED,43
-BSIT-Automotive,BSIT-Electricity,BSHM,31
-BEED,BSED-Soc Stud,BSED-Filipino,39
-BSHM,BEED,BSED-Filipino,40
-BSED-English,BSED-Filipino,BSED-Soc Stud,48
-BSHM,BSIT-Automotive,BSIT-Electricity,28
-BSIT-Drafting,BSIT-Automotive,BSIT-Electronics,34
-BEED,BSInfoTech,BSHM,58
-BEED,BSED-Filipino,BSHM,32
-BSHM,BSED-Math,BSInfoTech,50
-BSHM,BEED,BSIT-Automotive,32
-BSHM,BSIT-Automotive,BSIT-Electricity,38
-BSED-Filipino,BSInfoTech,BSHM,46
-BEED,BSHM,BSInfoTech,48
-BSIT-Automotive,BSIT-Electricity,BSHM,35
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,39
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,24
-BSIT-Automotive,BSIT-Electronics,BSHM,26
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,25
-BSED-Filipino,BEED,BSED-English,34
-BSED-Filipino,BSHM,BEED,33
-BSInfoTech,BSHM,BSIT-Automotive,24
-BSInfoTech,BSIT-Drafting,BSIT-Electronics,58
-BSInfoTech,BSHM,BSIT-Electronics,29
-BEED,BSHM,BSED-Filipino,31
-BEED,BSED-Soc Stud,BSED-English,36
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,34
-BEED,BSED-English,BSInfoTech,48
-BSInfoTech,BSIT-Electricity,BSHM,41
-BSHM,BSED-Filipino,BSED-English,29
-BSHM,BSED-Filipino,BSInfoTech,34
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,29
-BSInfoTech,BSED-English,BSHM,36
-BSHM,BEED,BSED-English,44
-BSInfoTech,BSIT-Electricity,BSIT-Electronics,26
-BSHM,BSInfoTech,BEED,52
-BSED-English,BSED-Filipino,BEED,49
-BSED-English,BSHM,BSED-Soc Stud,40
-BEED,BSInfoTech,BSHM,30
-BSHM,BEED,BSIT-Drafting,26
-BEED,BSHM,BSInfoTech,26
-BEED,BSHM,BSInfoTech,32
-BSHM,BSED-Math,BSED-Filipino,53
-BSHM,BEED,BSED-Filipino,50
-BSInfoTech,BSIT-Automotive,BSIT-Drafting,35
-BSIT-Automotive,BSIT-Drafting,BSIT-Electricity,47
-BSHM,BSInfoTech,BSIT-Drafting,32
-BSED-English,BEED,BSHM,29
-BSIT-Electronics,BSIT-Automotive,BSIT-Electricity,27
-BSED-Math,BSED-Filipino,BSED-English,56
-BSED-English,BSED-Soc Stud,BSInfoTech,31
-BSED-Filipino,BSHM,BEED,38
-BSHM,BSIT-Electronics,BSIT-Automotive,30
-BSHM,BSInfoTech,BEED,31
-BSHM,BEED,BSInfoTech,31
-BSHM,BSInfoTech,BSIT-Electronics,32
-BSInfoTech,BSED-Filipino,BSHM,46
-BSHM,BSInfoTech,BSIT-Electronics,30
-BSHM,BSInfoTech,BEED,34
-BSED-Soc Stud,BEED,BSED-Filipino,49
-BEED,BSED-Filipino,BSHM,36
-BSED-Filipino,BSInfoTech,BSHM,32
-BSIT-Electricity,BSIT-Automotive,BSIT-Drafting,34
-BEED,BSED-Math,BSED-Filipino,40
-BSIT-Electricity,BSIT-Automotive,BSHM,22
-BSHM,BSInfoTech,BSED-Filipino,30
-BSIT-Electricity,BSIT-Automotive,BSHM,28
-BSED-English,BSED-Math,BSIT-Electronics,49
-BSHM,BSInfoTech,BSED-Filipino,33
-BSIT-Automotive,BSIT-Electricity,BEED,34
-BSED-Filipino,BSInfoTech,BSHM,36
-BSHM,BSIT-Electricity,BSIT-Automotive,41
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,40
-BSInfoTech,BSHM,BSIT-Automotive,28
-BSHM,BSInfoTech,BSIT-Drafting,24
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,38
-BSIT-Automotive,BSIT-Drafting,BSIT-Electricity,38
-BSHM,BSInfoTech,BEED,40
-BSED-English,BSED-Filipino,BSHM,48
-BSIT-Automotive,BSIT-Electricity,BSHM,34
-BSHM,BEED,BSInfoTech,38
-BSED-Math,BSHM,BSInfoTech,42
-BSHM,BSIT-Automotive,BSIT-Electricity,27
-BSED-English,BSIT-Drafting,BSED-Filipino,43
-BSInfoTech,BSIT-Electronics,BSED-Filipino,59
-BSInfoTech,BSHM,BSIT-Drafting,26
-BSHM,BSIT-Automotive,BSIT-Electronics,25
-BSHM,BSIT-Automotive,BSIT-Electricity,35
-BSInfoTech,BSIT-Drafting,BSIT-Electronics,39
-BSHM,BSED-English,BSInfoTech,56
-BSHM,BSED-Soc Stud,BSInfoTech,42
-BSED-Filipino,BSInfoTech,BSHM,40
-BSIT-Automotive,BSIT-Electronics,BSInfoTech,29
-BSIT-Automotive,BSHM,BSIT-Electricity,32
-BSIT-Automotive,BSHM,BSIT-Electricity,44
-BSInfoTech,BSHM,BEED,37
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,25
-BSED-English,BSIT-Automotive,BSInfoTech,26
-BSInfoTech,BSHM,BSED-Filipino,31
-BSED-Soc Stud,BSED-Filipino,BSInfoTech,39
-,,,30
-BSED-Soc Stud,BSHM,BSInfoTech,38
-BSHM,BSIT-Automotive,BSIT-Electronics,31
-BSHM,BSED-Filipino,BSInfoTech,26
-BSHM,BSInfoTech,BEED,32
-BSED-Filipino,BSED-English,BSIT-Electricity,35
-BSInfoTech,BSHM,BSED-Filipino,41
-BSHM,BEED,BSED-Math,40
-BSIT-Drafting,BSED-English,BSInfoTech,57
-BSIT-Automotive,BSInfoTech,BSIT-Electronics,25
-BSED-English,BSHM,BSED-Filipino,31
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,34
-BEED,BSED-Filipino,BSED-English,55
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,40
-BSInfoTech,BSHM,BEED,35
-BSED-English,BSED-Soc Stud,BEED,37
-BSHM,BSIT-Automotive,BSInfoTech,32
-BSInfoTech,BSHM,BSED-Math,30
-BSED-Math,BSInfoTech,BSHM,27
-BSHM,BSIT-Automotive,,28
-BSHM,BSIT-Automotive,BSIT-Electronics,30
-BSHM,BSInfoTech,BSIT-Drafting,29
-BSInfoTech,BSIT-Automotive,BSED-Math,69
-BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,31
-BSHM,BSIT-Drafting,BSIT-Electricity,34
-BSED-Filipino,BEED,BSHM,47
-BSHM,BSED-Filipino,BSIT-Electricity,41
-BSIT-Electricity,BSInfoTech,BSHM,38
-BSHM,BSIT-Electronics,BSIT-Automotive,24
-BSHM,BSIT-Automotive,BSIT-Electronics,44
-BSED-English,BSED-Filipino,BSED-Soc Stud,65
-BSHM,BSInfoTech,,31
-BSIT-Automotive,BSHM,BSInfoTech,50
-BSED-English,BSED-Filipino,BEED,33
-BSIT-Electronics,BSIT-Drafting,BSIT-Electricity,37
-BSED-Filipino,BEED,BSED-Soc Stud,30
-BSHM,BSInfoTech,BSED-Filipino,26
-BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,42
-BSInfoTech,BSIT-Automotive,BSIT-Electricity,44
-BSHM,BSIT-Automotive,BSIT-Drafting,22
-BSInfoTech,BSED-Filipino,BEED,30
-BEED,BSHM,BSED-Soc Stud,35
-BSHM,BSInfoTech,BSIT-Automotive,29
-BSED-Filipino,BSInfoTech,BSHM,29
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,31
-BSED-Filipino,BEED,BSInfoTech,30
-BSED-English,BSED-Filipino,BSHM,26
-BSHM,BSED-Math,BEED,51
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,28
-BSHM,BEED,BSInfoTech,45
-BSHM,BSInfoTech,BEED,22
-BSHM,BSED-Filipino,BSIT-Electricity,31
-BSHM,BSInfoTech,BSED-Filipino,61
-BSHM,BEED,BSInfoTech,61
-BSInfoTech,BSIT-Electronics,BSIT-Electricity,51
-,,,28
-BSED-Math,BEED,BSIT-Automotive,29
-BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,38
-,,,37
-BSED-Filipino,BSInfoTech,BSIT-Automotive,28
-BSED-Soc Stud,BSHM,BSInfoTech,35
-BEED,BSIT-Automotive,BSIT-Electricity,36
-BSIT-Automotive,BSIT-Electricity,BSHM,36
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,38
-BSIT-Electricity,BSIT-Drafting,BSHM,34
-BSIT-Automotive,BSInfoTech,BSIT-Drafting,42
-BSIT-Automotive,,,46
-BSInfoTech,BSED-English,BSHM,48
-BSED-Filipino,BSED-English,BSED-Soc Stud,30
-BSInfoTech,,,39
-BSHM,BSInfoTech,BSED-Filipino,37
-BSHM,BSIT-Automotive,BSInfoTech,28
-BSHM,BSED-English,BSInfoTech,51
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,32
-BSED-English,BSED-Filipino,BSED-Math,31
-BSHM,BSED-English,BSInfoTech,32
-BSHM,BSInfoTech,BSED-Filipino,27
-BSHM,BSIT-Drafting,BEED,31
-BSHM,BEED,BSInfoTech,32
-BSED-English,BSHM,BSED-Math,24
-BSED-Math,BSED-Filipino,BSHM,32
-BSHM,BSInfoTech,BSIT-Automotive,28
-BSHM,BSInfoTech,BSED-Filipino,31
-BSHM,BSIT-Electronics,BSInfoTech,32
-BSInfoTech,,,28
-BSIT-Electricity,BSIT-Automotive,,31
-BSIT-Drafting,BEED,BSED-English,33
-BSHM,BEED,BSInfoTech,26
-BSIT-Automotive,BSInfoTech,BSIT-Electricity,32
-BSInfoTech,BSHM,BEED,34
-BSHM,BEED,BSInfoTech,32
-BSIT-Automotive,BSHM,BSInfoTech,31
-BSHM,BSIT-Electronics,BSIT-Automotive,52
-BSED-English,BEED,BSHM,26
-BSHM,BSInfoTech,BSED-Filipino,52
-BSInfoTech,BSED-English,BSED-Filipino,61
-BSHM,BEED,BSInfoTech,30
-BSHM,BSInfoTech,BSED-Filipino,27
-BSInfoTech,BSHM,BEED,28
-BSED-Filipino,BSED-English,BSED-Math,27
-BSHM,BSED-Filipino,BSED-Soc Stud,28
-BSInfoTech,BSED-English,BSIT-Drafting,40
-BSED-Filipino,BSHM,BSInfoTech,25
-BSED-English,BSED-Filipino,BSED-Soc Stud,39
-BSED-English,BSED-Filipino,BEED,44
-BSInfoTech,BSHM,BSIT-Automotive,37
-BSED-Filipino,BSED-Soc Stud,BEED,36
-BSHM,BSInfoTech,BSED-Filipino,30
-BEED,BSHM,BSED-Filipino,41
-BSED-Filipino,BSED-English,BSED-Soc Stud,34
-BSED-English,BSED-Filipino,BSED-Soc Stud,43
-BSED-Soc Stud,BSED-Filipino,BSHM,46
-BSHM,BSED-Math,,31
-BSHM,BSInfoTech,BSED-Math,32
-BSED-Soc Stud,BSED-Filipino,BSHM,44
-BSInfoTech,BSED-English,BSHM,58
-BSED-English,BSInfoTech,BSHM,28
-BSIT-Automotive,BSED-Filipino,BSIT-Electricity,25
-BSInfoTech,BSIT-Electronics,BSIT-Electricity,49
-BSHM,BEED,BSED-Filipino,30
-BSED-Filipino,BSHM,BSInfoTech,29
-BSED-Soc Stud,BSED-Filipino,BSED-English,31
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,30
-BSHM,BSED-Math,BSIT-Automotive,21
-BSIT-Drafting,BSHM,BSED-Filipino,33
-BSHM,BSInfoTech,BSIT-Drafting,35
-BSHM,BSED-Filipino,BSInfoTech,41
-BSED-English,BSED-Soc Stud,BEED,32
-BSHM,BSInfoTech,BEED,36
-,,,31
-BSInfoTech,BEED,BSED-Filipino,28
-,,,36
-BEED,BSED-Filipino,BSHM,39
-BSInfoTech,BSED-Soc Stud,BSHM,59
-BSED-Soc Stud,BSED-Filipino,BSED-English,52
-BEED,BSED-Soc Stud,BSED-Filipino,33
-BSIT-Automotive,BSIT-Electricity,BSHM,28
-BSHM,BSInfoTech,BSIT-Automotive,56
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,39
-BSHM,BSInfoTech,BEED,30
-BSED-Filipino,BSED-English,BSIT-Drafting,45
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,32
-BEED,BSInfoTech,BSIT-Automotive,32
-BSHM,BEED,BSIT-Electronics,34
-BSInfoTech,BSED-Filipino,BSIT-Electronics,40
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,23
-BSHM,,,30
-BSHM,BSED-Filipino,BSED-Soc Stud,41
-BSHM,BSInfoTech,BSED-English,47
-BSIT-Electricity,BSIT-Automotive,BSHM,37
-BEED,BSED-Filipino,BSInfoTech,40
-BSHM,BSED-Filipino,BSIT-Electricity,33
-BSInfoTech,BSHM,,50
-BSHM,BEED,BSED-Filipino,41
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,28
-BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,41
-BSHM,BEED,BSED-Filipino,21
-BSHM,BSIT-Electricity,BSED-English,33
-BSED-Filipino,BSHM,BSInfoTech,35
-BSHM,BSED-Filipino,BSED-English,33
-BSED-Filipino,BSED-Soc Stud,BSED-English,69
-BSED-Filipino,BSHM,BSInfoTech,33
-BSHM,BSIT-Automotive,BSED-English,34
-BSED-Math,BSIT-Electricity,BSInfoTech,30
-BSHM,BSIT-Electronics,BEED,35
-BSInfoTech,BSIT-Automotive,BSIT-Electricity,71
-BSIT-Electricity,BSED-Math,BSED-English,38
-BSED-Filipino,BEED,BSInfoTech,39
-BSHM,BSIT-Automotive,BSIT-Electricity,27
-BSInfoTech,BSIT-Drafting,BSHM,54
-BSInfoTech,BSIT-Automotive,,35
-BSHM,BEED,BSIT-Drafting,35
-BSHM,BSIT-Automotive,BSIT-Electronics,42
-BSInfoTech,BSED-English,BSED-Filipino,53
-BSED-Filipino,BSED-English,BEED,60
-BSHM,BSIT-Automotive,BSIT-Electricity,28
-BSIT-Electricity,BSIT-Electronics,BSIT-Drafting,45
-BSED-Soc Stud,BSED-Filipino,BSED-English,53
-BSHM,BEED,BSED-Filipino,33
-BSHM,BSInfoTech,BSED-Soc Stud,35
-BSInfoTech,BSIT-Electronics,BSHM,52
-BSHM,BSInfoTech,BSIT-Electricity,36
-BSInfoTech,BSHM,BEED,27
-BSHM,BSED-English,BSInfoTech,50
-BSHM,BSInfoTech,BSED-English,37
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,31
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,34
-BSHM,BSED-Filipino,BEED,31
-,,,30
-BSInfoTech,BSIT-Automotive,BSIT-Electricity,29
-BSIT-Automotive,BSIT-Electricity,BSIT-Drafting,32
-BSED-Soc Stud,BSED-Filipino,BSHM,68
-BSHM,BSInfoTech,BSED-English,57
-BSInfoTech,BSHM,BSIT-Electronics,70
-BSHM,BSInfoTech,BSIT-Drafting,40
-BSInfoTech,BSHM,BSIT-Drafting,35
-BSIT-Electricity,BSInfoTech,BEED,38
-BSED-Filipino,BSED-Soc Stud,BEED,57
-BSHM,BSIT-Electricity,BSIT-Automotive,41
-BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,20
-BSInfoTech,BSIT-Automotive,BSIT-Electronics,40
-BSInfoTech,BSIT-Drafting,BSED-Filipino,33
-BSED-Filipino,BSIT-Electronics,BSIT-Electricity,38
-BSHM,BSIT-Automotive,BSED-Filipino,38
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,39
-BSHM,BSInfoTech,BSED-Filipino,29
-,,,28
-BSIT-Drafting,BSHM,BSED-Math,37
-BSHM,BSInfoTech,BSIT-Drafting,43
-BSIT-Electronics,BSIT-Automotive,BSHM,35
-BEED,BSED-Filipino,BSHM,31
-BSIT-Automotive,BSIT-Electricity,BSHM,26
-BSED-Soc Stud,BEED,BSHM,38
-BSED-English,BSED-Soc Stud,BSED-Filipino,51
-BSIT-Automotive,BSIT-Electricity,BSHM,36
-BSInfoTech,BSHM,BSIT-Electronics,23
-BSED-English,BEED,BSED-Filipino,66
-BSED-Filipino,BSInfoTech,BSHM,36
-BSIT-Drafting,BSED-English,BEED,62
-BSED-Filipino,BSHM,BSInfoTech,33
-BSED-Math,BSED-Filipino,BSHM,45
-BSInfoTech,BSHM,BSIT-Drafting,49
-,,,37
-BEED,BSInfoTech,BSIT-Electronics,23
-BSIT-Automotive,BSED-Soc Stud,BSInfoTech,39
-BSED-English,BSED-Filipino,BEED,29
-BSHM,BSInfoTech,BSED-Filipino,28
-BSHM,BSED-English,BSED-Filipino,41
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,31
-BSInfoTech,BSHM,BSED-Filipino,34
-BSED-English,BSED-Filipino,BSED-Soc Stud,51
-BEED,BSHM,BSED-Filipino,30
-BSED-English,BSED-Filipino,BEED,36
-BSIT-Automotive,BSIT-Electricity,BSHM,34
-BSED-English,BEED,,68
-BSHM,BSED-Filipino,BSED-Soc Stud,31
-BSHM,BSED-Filipino,BEED,20
-BSHM,BSED-Filipino,BSED-English,46
-BSHM,BSIT-Automotive,BSED-Filipino,34
-BSInfoTech,BSIT-Drafting,BSIT-Electronics,29
-BSHM,BSInfoTech,BSIT-Electricity,38
-BSHM,BSED-Filipino,BEED,24
-BSIT-Automotive,BSIT-Electricity,BSHM,33
-BSInfoTech,BSHM,BSIT-Automotive,38
-BSInfoTech,BSHM,BEED,35
-BSED-English,BEED,BSHM,68
-BEED,BSInfoTech,BSHM,49
-BSIT-Automotive,BSInfoTech,BSHM,21
-BEED,BSIT-Drafting,BSInfoTech,29
-BSInfoTech,BSED-Filipino,BSHM,35
-BSHM,BEED,BSED-Filipino,34
-BSHM,BSIT-Automotive,BSED-Filipino,33
-BEED,BSHM,BSED-Filipino,35
-BSHM,BEED,BSED-Filipino,49
-BSHM,BSInfoTech,BSED-Filipino,32
-BSHM,BSIT-Drafting,BSIT-Electricity,35
-BSInfoTech,BSED-English,BEED,69
-BSHM,BSInfoTech,BEED,32
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,59
-BSInfoTech,BSHM,BSED-English,55
-BSHM,BSIT-Automotive,BSED-Filipino,27
-BSHM,BSIT-Drafting,BSInfoTech,41
-BSED-Filipino,BSED-Math,BSIT-Electricity,30
-BSIT-Drafting,BSInfoTech,BSIT-Automotive,54
-BEED,BSHM,BSInfoTech,24
-BSIT-Automotive,BSIT-Electronics,BSHM,33
-BSIT-Automotive,BSHM,BSIT-Electricity,28
-BSHM,BSInfoTech,BSIT-Automotive,33
-BSHM,BEED,BSInfoTech,22
-BEED,BSHM,BSInfoTech,38
-BSED-Filipino,BEED,BSHM,37
-BSHM,BSED-Filipino,BEED,35
-BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,38
-BSED-Filipino,BEED,BSInfoTech,33
-BSIT-Automotive,BSHM,BSInfoTech,34
-BSIT-Automotive,BSHM,BSInfoTech,24
-BSED-Filipino,BEED,BSED-Soc Stud,50
-BSInfoTech,BEED,BSIT-Drafting,38
-BSInfoTech,BEED,BSHM,28
-BSED-Soc Stud,BSED-English,BSED-Filipino,28
-BSHM,BSED-English,BSInfoTech,45
-BSHM,BSInfoTech,BSED-Filipino,39
-BSIT-Automotive,BSIT-Electricity,BSED-Filipino,28
-BSHM,BSIT-Electricity,BSIT-Automotive,36
-BSED-Filipino,BSInfoTech,BEED,32
-BSHM,BSIT-Drafting,BSInfoTech,43
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,37
-BEED,BSED-English,BSED-Soc Stud,52
-BSED-English,BSED-Soc Stud,,57
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,24
-BSHM,BSIT-Automotive,BSIT-Electricity,33
-BSIT-Electricity,BSIT-Electronics,BSInfoTech,22
-BSED-Filipino,BEED,BSED-Soc Stud,45
-BSIT-Automotive,BSInfoTech,BSIT-Electronics,34
-BSED-English,BSED-Soc Stud,BSInfoTech,39
-BSED-Soc Stud,BSHM,BEED,35
-BEED,BSED-Soc Stud,BSHM,40
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,28
-BSHM,BSIT-Electricity,BSIT-Automotive,41
-BSInfoTech,BSHM,BSED-Soc Stud,53
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,37
-BSHM,BSIT-Automotive,BSIT-Electricity,29
-BSHM,BSIT-Automotive,BEED,43
-BSIT-Automotive,BSIT-Electricity,BSHM,46
-BSIT-Electronics,BSIT-Automotive,BSIT-Electricity,37
-BSHM,BSED-English,BSED-Filipino,46
-BSInfoTech,BSHM,BSED-Filipino,38
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,38
-BSHM,BSIT-Automotive,BSIT-Electricity,25
-BSHM,BSED-English,BEED,30
-BSInfoTech,BSHM,BEED,57
-BSInfoTech,BSED-English,BSHM,33
-BSHM,BSInfoTech,BSED-Filipino,35
-BSHM,BSInfoTech,BSED-Filipino,41
-BSHM,BSIT-Automotive,BSIT-Electricity,33
-BSED-Filipino,BEED,BSHM,26
-BSED-Soc Stud,BSInfoTech,BSED-English,85
-BSHM,BSIT-Automotive,BSInfoTech,43
-BSHM,BSInfoTech,BSIT-Electronics,37
-BSED-English,BSED-Filipino,BSHM,39
-BSED-Soc Stud,BSED-English,BSIT-Electronics,63
-BSIT-Automotive,BSED-Filipino,BSIT-Electronics,41
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,63
-BSED-Filipino,BSHM,BSInfoTech,49
-BSInfoTech,BSED-Math,BSHM,47
-BSHM,BSED-Filipino,BSInfoTech,31
-BSHM,BEED,BSInfoTech,32
-BSHM,BSInfoTech,BSED-Filipino,35
-BSED-English,BSHM,BSInfoTech,78
-BSED-English,BSInfoTech,BSHM,47
-BSHM,BSED-Filipino,BEED,31
-BSED-English,BEED,BSED-Soc Stud,34
-BSHM,BSIT-Automotive,BSIT-Electricity,28
-BEED,BSED-Math,BSED-Soc Stud,48
-BSED-Filipino,BSInfoTech,BSHM,38
-BSED-Soc Stud,BSED-Filipino,BEED,50
-BSHM,BSED-Filipino,BEED,45
-BSHM,BSInfoTech,BSIT-Automotive,55
-BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,35
-BSED-Filipino,BEED,BSED-Soc Stud,29
-BEED,BSED-English,BSIT-Drafting,44
-BSIT-Drafting,BSInfoTech,BSIT-Electricity,32
-BSHM,BSIT-Drafting,BSED-Filipino,30
-BSHM,BSIT-Electricity,BSIT-Automotive,29
-BSInfoTech,BSIT-Electricity,BSIT-Electronics,54
-BSED-Filipino,BSInfoTech,BSIT-Automotive,46
-BSIT-Automotive,BSHM,,40
-,,,43
-BSHM,BSIT-Automotive,BSED-Math,38
-BSHM,BSInfoTech,BSED-Filipino,30
-BSInfoTech,BEED,BSED-Soc Stud,33
-BEED,BSED-Filipino,BSHM,34
-BSIT-Electronics,BSIT-Automotive,BSIT-Drafting,27
-BSED-Filipino,BSInfoTech,BSHM,29
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,29
-BSIT-Automotive,BSIT-Electronics,BSInfoTech,39
-BSHM,BSInfoTech,BSED-Filipino,38
-BSED-Soc Stud,BSED-Filipino,BEED,50
-BSIT-Automotive,BSIT-Electricity,BSED-Filipino,36
-BSHM,BSIT-Automotive,BSIT-Electricity,41
-BSIT-Electronics,BSIT-Automotive,BSHM,36
-BSED-Filipino,BSHM,BSInfoTech,32
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,39
-BSInfoTech,BSED-Filipino,BSIT-Electronics,27
-BSED-English,BEED,BSED-Soc Stud,36
-BSIT-Automotive,BSInfoTech,BSHM,28
-BSED-Filipino,BSED-Math,BSInfoTech,50
-BSIT-Drafting,BSED-Math,BSInfoTech,63
-BSIT-Automotive,BSInfoTech,BSHM,35
-BSED-Soc Stud,BEED,BSED-English,39
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,31
-BSHM,BSED-English,BSInfoTech,38
-BSED-Soc Stud,BSED-Filipino,BSED-Math,37
-BSHM,BSED-Filipino,BSInfoTech,35
-BSIT-Drafting,BSED-Filipino,BSIT-Electronics,33
-BSED-Filipino,BSED-Soc Stud,BSInfoTech,29
-BSHM,BSIT-Electronics,BSInfoTech,33
-BEED,BSED-Filipino,BSED-Soc Stud,27
-BSIT-Automotive,BSIT-Electronics,BSHM,31
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,38
-BSED-Math,BSHM,BSED-Filipino,53
-BSInfoTech,BSIT-Electricity,BSED-English,54
-BEED,BSED-Filipino,BSED-English,58
-BSIT-Electricity,BEED,BSIT-Automotive,39
-BEED,BSED-English,BSED-Math,70
-BSED-English,BSED-Filipino,BEED,37
-BSInfoTech,BSHM,BSIT-Automotive,37
-BSED-Soc Stud,BSED-Filipino,BSED-Math,34
-BSInfoTech,BSHM,BSIT-Automotive,32
-BSIT-Electricity,BSIT-Automotive,BSInfoTech,28
-BSIT-Automotive,BSIT-Electricity,BSHM,31
-BSHM,BSInfoTech,BSED-Filipino,23
-BSHM,BSInfoTech,BEED,29
-BSInfoTech,BSIT-Electronics,BSHM,50
-BSHM,BEED,BSED-Filipino,30
-BSED-English,BSED-Filipino,BSHM,31
-BSED-English,BSED-Filipino,BSHM,60
-BSHM,BEED,BSED-Math,35
-BSHM,BEED,BSED-Soc Stud,39
-BSED-Filipino,BSHM,BSInfoTech,22
-,,,32
-BSED-Soc Stud,BSED-Math,BSIT-Automotive,29
-BSHM,BSInfoTech,BSED-Filipino,35
-BSIT-Automotive,BSHM,BSIT-Electricity,31
-BSInfoTech,BSHM,BSED-Filipino,34
-BSED-Math,BSHM,BSED-Filipino,50
-BSInfoTech,BSED-Soc Stud,BSED-Filipino,34
-BSIT-Automotive,BSHM,BSIT-Electricity,38
-BSHM,BSIT-Automotive,BSIT-Electricity,36
-BSED-English,BSED-Filipino,BSHM,32
-BSED-Filipino,BEED,BSInfoTech,28
-BSED-English,BEED,BSED-Filipino,46
-BSIT-Automotive,BSIT-Electronics,,34
-BSHM,BSED-Math,BSED-Soc Stud,21
-BSIT-Drafting,BSIT-Automotive,BSIT-Electricity,38
-BSInfoTech,BSHM,BSED-Filipino,29
-BEED,BSHM,BSInfoTech,30
-BSED-English,BSED-Soc Stud,BSInfoTech,48
-BSED-English,BSED-Filipino,BEED,28
-BSHM,BSED-Filipino,BEED,31
-BEED,BSHM,BSIT-Automotive,33
-BSED-Math,BSInfoTech,BSIT-Electricity,25
-BSHM,BSInfoTech,BEED,27
-BSInfoTech,BSED-Soc Stud,BSED-Filipino,27
-BSED-English,BSED-Math,BSED-Soc Stud,61
-BSIT-Electricity,BSIT-Automotive,BSIT-Drafting,28
-BSIT-Automotive,BSIT-Electronics,BSHM,36
-BEED,BSHM,BSED-Filipino,32
-BEED,BSHM,BSInfoTech,40
-BSHM,BSIT-Electricity,BSIT-Electronics,67
-BSHM,BSED-Filipino,BSInfoTech,35
-BSInfoTech,BSHM,,37
-BSIT-Electricity,BSIT-Electronics,BSIT-Drafting,28
-BSIT-Electricity,BSIT-Electronics,BSIT-Drafting,25
-BSED-Filipino,BSED-Soc Stud,BSInfoTech,41
-BSIT-Electronics,BSIT-Automotive,BSHM,26
-BSED-Filipino,BEED,BSHM,34
-BSHM,BSED-Filipino,BEED,40
-BSED-Filipino,BSED-Soc Stud,BEED,40
-,,,32
-BSED-Filipino,BEED,BSHM,36
-BSIT-Drafting,BSIT-Electricity,BSIT-Automotive,25
-BSED-Math,BSIT-Drafting,BSInfoTech,40
-BSED-Soc Stud,BSIT-Drafting,BSInfoTech,47
-BSHM,BSInfoTech,BSIT-Automotive,28
-BSED-Filipino,BSED-English,BSED-Soc Stud,33
-BSHM,BEED,BSInfoTech,25
-BSED-Soc Stud,BSHM,BSED-Filipino,54
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,36
-BSIT-Automotive,BSIT-Electricity,BSHM,60
-BSED-English,BSED-Filipino,BSED-Soc Stud,42
-BSIT-Drafting,BSHM,BSED-Filipino,28
-BSInfoTech,BSHM,BSED-English,46
-BSInfoTech,BSHM,BSIT-Electricity,35
-BEED,BSED-Filipino,BSHM,56
-BSED-Math,BSED-Soc Stud,BSInfoTech,59
-BSHM,BSInfoTech,BSED-Filipino,32
-BEED,BSED-Soc Stud,BSED-Filipino,36
-BSIT-Electricity,BSInfoTech,BSIT-Drafting,27
-BSInfoTech,BSED-Filipino,BSHM,46
-BSHM,BSIT-Electricity,BSIT-Electronics,29
-BSInfoTech,BSHM,BSED-English,37
-BEED,BSED-Math,BSHM,70
-BSED-Math,BSHM,BSED-Filipino,37
-BSHM,BSED-Filipino,BSInfoTech,42
-BSHM,BSInfoTech,BSED-English,56
-BSED-Soc Stud,BSED-Filipino,BSED-English,40
-BEED,BSInfoTech,BSIT-Automotive,30
-BSHM,BSIT-Automotive,BSED-Filipino,40
-BSIT-Automotive,BSHM,BSIT-Electricity,27
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,36
-BSED-English,BSHM,BSED-Filipino,55
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,40
-BSHM,BSED-English,BSED-Filipino,36
-BEED,BSIT-Electronics,BSHM,22
-BSIT-Automotive,BSIT-Electronics,BSInfoTech,35
-BEED,BSHM,BSInfoTech,27
-BSHM,BSInfoTech,,55
-BEED,BSInfoTech,BSHM,32
-BSED-English,BSED-Soc Stud,BEED,49
-BSED-Soc Stud,BSED-Filipino,BEED,30
-BEED,BSED-Soc Stud,BSHM,33
-BSHM,BSED-Filipino,BSED-Soc Stud,41
-BSHM,BSIT-Electricity,BSIT-Electronics,40
-BSHM,BEED,BSED-Filipino,42
-BSInfoTech,BSHM,BSIT-Electronics,47
-BSIT-Electronics,BSIT-Automotive,BSIT-Electricity,30
-BEED,BSED-Soc Stud,BSED-Filipino,26
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,37
-BEED,BSED-Filipino,BSHM,28
-BSInfoTech,BSIT-Electronics,BSIT-Automotive,44
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,30
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,35
-BSED-Soc Stud,BSIT-Drafting,BSHM,38
-BSInfoTech,BSIT-Drafting,BSIT-Electricity,37
-BSIT-Electricity,BSIT-Automotive,,30
-BSHM,BSInfoTech,BSIT-Drafting,41
-BSHM,BSIT-Electronics,BSIT-Automotive,44
-BSIT-Electronics,BSIT-Electricity,BSInfoTech,24
-BSHM,BSIT-Electricity,BSIT-Automotive,77
-BSHM,BSInfoTech,BSED-Soc Stud,32
-BSHM,BSED-Math,BSInfoTech,29
-BSHM,BEED,BSInfoTech,25
-BEED,BSED-Filipino,BSED-English,35
-BSInfoTech,BSHM,BSED-Filipino,39
-BSHM,BSInfoTech,BSED-Math,39
-BSInfoTech,BSHM,BSED-English,36
-BSED-Filipino,BSED-English,BSED-Soc Stud,42
-BSED-Soc Stud,BSED-Filipino,BEED,32
-BSHM,BSIT-Drafting,BSED-Filipino,35
-BSInfoTech,BSED-Filipino,BSIT-Drafting,39
-BSED-English,BEED,BSED-Soc Stud,49
-,,,31
-BSED-Filipino,BEED,BSED-Soc Stud,34
-BSInfoTech,BSHM,BSED-English,31
-BSHM,BSInfoTech,BSIT-Electricity,25
-BSHM,BSInfoTech,BSED-English,40
-BSInfoTech,BSHM,BSIT-Drafting,37
-BSHM,BEED,BSED-Soc Stud,30
-BSED-Filipino,BEED,BSInfoTech,27
-BSHM,BSIT-Electronics,BSED-Filipino,27
-BSInfoTech,BSHM,BEED,34
-BSED-English,BSHM,BEED,24
-BSHM,BSInfoTech,BSED-Filipino,32
-BSHM,BSED-Soc Stud,BEED,35
-BSHM,BSIT-Automotive,BSInfoTech,34
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,37
-BSInfoTech,BSHM,BEED,51
-BSInfoTech,BSED-English,BSHM,34
-BSED-Math,BEED,BSED-Filipino,30
-BSHM,BSED-Filipino,BSED-Math,33
-BSED-Filipino,BSHM,BEED,31
-BSED-Filipino,BSInfoTech,BEED,29
-BSHM,BSIT-Automotive,BSIT-Electronics,29
-BSHM,BSInfoTech,BEED,33
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,29
-BSHM,,,54
-BSED-Filipino,BSED-Soc Stud,BEED,34
-BSED-English,BSED-Math,BSHM,51
-BSInfoTech,BSIT-Electricity,BSIT-Automotive,47
-BSInfoTech,BEED,BSED-Filipino,38
-BSHM,BSInfoTech,BSIT-Electronics,42
-BSIT-Electricity,BSIT-Electronics,BSInfoTech,39
-BSIT-Electronics,BSIT-Automotive,BSIT-Electricity,27
-BSED-Filipino,BSED-English,BEED,25
-BSHM,BEED,BSInfoTech,31
-BSED-Math,BEED,BSHM,36
-BSED-English,BSHM,BSED-Soc Stud,29
-BSHM,BSED-Soc Stud,BSInfoTech,38
-BSInfoTech,BSHM,BSED-Filipino,40
-BEED,BSHM,BSED-Soc Stud,40
-BSHM,BSInfoTech,BSIT-Electricity,33
-BSHM,BSInfoTech,BSIT-Electricity,37
-BSHM,BSED-Filipino,BEED,29
-BSED-Filipino,BSED-Soc Stud,BSInfoTech,52
-BSIT-Automotive,BSED-Math,BSInfoTech,82
-BSHM,BSIT-Electronics,BSIT-Electricity,36
-BEED,BSHM,BSED-Math,40
-BSInfoTech,BSHM,BSED-Soc Stud,30
-BEED,BSED-English,BSED-Filipino,35
-BSInfoTech,BSED-Math,BSED-English,37
-BSHM,,,36
-BSIT-Automotive,BSIT-Electronics,BSInfoTech,32
-BSInfoTech,BSHM,BSED-Math,42
-BSED-English,BSInfoTech,BSED-Math,52
-BSED-Math,BSED-Filipino,BSIT-Automotive,44
-BSHM,BSInfoTech,BSIT-Automotive,29
-BSED-Filipino,BSED-English,BSED-Soc Stud,46
-BSInfoTech,BSHM,BSED-Soc Stud,33
-BSHM,BSInfoTech,BSIT-Drafting,32
-BSIT-Electricity,BSHM,BSED-Math,28
-BSIT-Electronics,BSIT-Automotive,BSIT-Electricity,33
-BSInfoTech,BSHM,BEED,34
-BSIT-Automotive,BSIT-Drafting,BSIT-Electricity,45
-BSInfoTech,BSIT-Automotive,BSIT-Electricity,27
-BSED-English,BSInfoTech,BSED-Soc Stud,45
-BSED-Filipino,BEED,BSHM,42
-BSED-Soc Stud,BSED-English,BSED-Math,45
-BSIT-Automotive,BSInfoTech,BSIT-Electricity,29
-BSInfoTech,BSHM,BSED-Math,25
-BSHM,BSED-Filipino,BSIT-Automotive,40
-BSInfoTech,BSED-Math,BEED,36
-BSIT-Drafting,BEED,BSHM,34
-BSIT-Drafting,BSIT-Automotive,BSIT-Electricity,30
-BSHM,BEED,BSInfoTech,47
-BSIT-Automotive,BSED-Filipino,BEED,36
-BSED-Filipino,BSHM,BEED,37
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,25
-BSED-Soc Stud,BSHM,BSInfoTech,29
-BSED-English,BSED-Filipino,BSHM,43
-BSInfoTech,BSHM,BSIT-Automotive,26
-BSIT-Automotive,BSHM,BSIT-Electricity,30
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,36
-BSHM,BSInfoTech,BSED-English,32
-BSHM,,,37
-BEED,BSED-Filipino,BSHM,42
-BSIT-Electricity,BSHM,BSIT-Automotive,35
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,31
-BSED-Filipino,BSED-English,BSED-Soc Stud,31
-BSHM,BSInfoTech,BSIT-Automotive,25
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,29
-BSIT-Automotive,BSInfoTech,BSHM,23
-BSED-Filipino,BEED,BSED-Soc Stud,46
-BSIT-Electronics,BSIT-Drafting,BSED-Math,50
-BSED-English,BSED-Filipino,BEED,28
-BSHM,BSED-Filipino,BSED-English,47
-BSIT-Electricity,BSIT-Automotive,BSHM,32
-BSHM,BEED,BSED-English,50
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,34
-BSHM,BSInfoTech,,45
-BEED,BSHM,BSIT-Electricity,27
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,34
-BSIT-Automotive,BSIT-Drafting,BSHM,33
-BSIT-Drafting,BSIT-Electricity,BSIT-Electronics,36
-BSED-Soc Stud,BSInfoTech,BSED-Filipino,24
-BSHM,BSInfoTech,BSED-Soc Stud,52
-BSIT-Automotive,BSIT-Electricity,BSHM,37
-BSHM,BSInfoTech,BSIT-Drafting,29
-BSHM,BEED,BSED-Filipino,45
-BEED,BSHM,BSED-Soc Stud,30
-BSIT-Electricity,BSIT-Electronics,BSIT-Drafting,44
-BSHM,BSIT-Automotive,BSIT-Drafting,32
-BSHM,BEED,BSIT-Drafting,38
-BEED,BSIT-Electricity,BSHM,29
-BSHM,BSED-Math,BSED-Soc Stud,35
-BSED-Filipino,BSHM,BSED-Soc Stud,26
-BSHM,BSED-Soc Stud,BSED-English,62
-BSInfoTech,BSHM,BSIT-Drafting,34
-BSED-English,BSHM,BSED-Filipino,31
-BSHM,BEED,BSInfoTech,32
-BSHM,BSInfoTech,BSED-Filipino,39
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,38
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,41
-BSIT-Automotive,,,24
-BSInfoTech,BSIT-Automotive,BSED-Filipino,23
-BSInfoTech,BSHM,BSIT-Electricity,23
-BSHM,BSED-Filipino,BSInfoTech,29
-BSED-English,BEED,BSHM,51
-BSED-Soc Stud,BSHM,BSED-Filipino,45
-BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,36
-BSHM,BSED-Filipino,BEED,41
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,26
-BSED-English,BSHM,BSIT-Electricity,31
-BSHM,BSED-English,BSInfoTech,26
-BSHM,BSED-English,BSIT-Automotive,29
-BSIT-Electricity,BSIT-Automotive,BSInfoTech,28
-BSHM,BSInfoTech,BSED-English,61
-BSHM,BSED-Filipino,BEED,51
-BSHM,BSED-Filipino,BSInfoTech,34
-BSIT-Automotive,BSED-Math,BSIT-Electronics,38
-BSED-Filipino,BSED-English,BSED-Soc Stud,71
-BSHM,BSInfoTech,BSIT-Automotive,46
-BSED-Soc Stud,BSHM,BSInfoTech,44
-BSHM,BEED,BSED-Filipino,26
-BSHM,BSIT-Electronics,BSIT-Automotive,47
-BSHM,BSIT-Electronics,BSIT-Automotive,38
-BSHM,BSIT-Automotive,BEED,35
-BSED-English,BSED-Math,BSED-Soc Stud,55
-BSHM,BSED-Math,BSInfoTech,42
-BSHM,BSED-Filipino,BSED-Soc Stud,30
-BSHM,BSIT-Automotive,BSIT-Electronics,41
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,33
-BSED-Math,BEED,BSHM,35
-BSHM,BSED-Filipino,BSInfoTech,31
-BSHM,BSInfoTech,BEED,35
-BEED,BSHM,BSED-Filipino,36
-BSHM,BSIT-Automotive,BSED-English,28
-BEED,BSHM,BSED-Filipino,37
-BSIT-Automotive,BSHM,BSInfoTech,24
-BSIT-Automotive,BSIT-Electricity,BSHM,35
-BSED-English,BSHM,BSED-Filipino,37
-BSED-Filipino,BSInfoTech,BSHM,47
-BEED,BSED-English,BSED-Soc Stud,31
-BSIT-Automotive,BSIT-Electricity,BSHM,39
-BSIT-Electronics,BSIT-Automotive,BSInfoTech,39
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,38
-BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,40
-BSHM,BSInfoTech,BEED,26
-BSHM,BSIT-Automotive,BSInfoTech,31
-BEED,BSED-Soc Stud,BSED-Filipino,52
-BSHM,BSInfoTech,BEED,32
-BSHM,BSED-Filipino,BSED-English,44
-BSInfoTech,BSHM,BEED,58
-BSED-Soc Stud,BSED-Filipino,BSED-English,48
-BSHM,BSIT-Electricity,BSInfoTech,39
-BSED-Filipino,BSInfoTech,BSHM,29
-BEED,BSED-Filipino,BSED-English,64
-BSED-Soc Stud,BSED-Filipino,BEED,33
-BSInfoTech,BSIT-Electronics,BSIT-Drafting,41
-BSHM,BSInfoTech,BEED,28
-BSHM,BSED-Filipino,BSED-English,25
-BSHM,BEED,BSInfoTech,43
-BSHM,BSIT-Electronics,BSIT-Drafting,32
-BSED-English,BSED-Filipino,BSHM,50
-BSInfoTech,BSIT-Electronics,BSED-Filipino,34
-BSHM,BEED,BSInfoTech,34
-BSHM,BSED-Math,BSED-Soc Stud,61
-BSED-Math,BSHM,BSED-Soc Stud,56
-BSHM,BSED-Soc Stud,BSInfoTech,34
-BSInfoTech,BSHM,BSED-Filipino,40
-BSInfoTech,BEED,BSHM,33
-BSInfoTech,BSED-Soc Stud,BSHM,42
-BSHM,BSIT-Electricity,BSED-Filipino,31
-BSIT-Automotive,BSHM,BSInfoTech,27
-BSHM,BSInfoTech,BEED,30
-BSInfoTech,BSHM,BSED-English,35
-BSIT-Automotive,BSIT-Electricity,BSHM,42
-BSED-Soc Stud,BSED-Filipino,BSED-Math,31
-BSIT-Drafting,BSIT-Electronics,BSED-Math,37
-BSHM,BSIT-Automotive,,26
-BSED-Soc Stud,BSHM,BSED-English,48
-BSED-English,BSED-Filipino,BSInfoTech,32
-BSInfoTech,BSHM,BEED,23
-BSED-English,BSHM,BEED,24
-BSIT-Drafting,BSIT-Automotive,BSIT-Electronics,39
-BSInfoTech,BSHM,BEED,32
-BSED-Soc Stud,BSED-Filipino,BSIT-Electronics,37
-BSIT-Drafting,BSIT-Electricity,BSIT-Automotive,29
-BSInfoTech,BSHM,BSED-Filipino,33
-BSInfoTech,BEED,BSIT-Automotive,24
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,31
-BSHM,BSInfoTech,BSED-Filipino,50
-BSInfoTech,BSIT-Drafting,BSIT-Automotive,40
-BSED-Filipino,BEED,BSHM,38
-BSED-English,BSHM,BSED-Filipino,42
-BSIT-Electricity,BSIT-Electronics,BSHM,38
-BSInfoTech,BSIT-Electricity,BSIT-Electronics,44
-BSHM,BSED-English,BSIT-Electricity,39
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,37
-BSHM,BEED,BSED-Soc Stud,41
-BSHM,BSInfoTech,BSED-English,27
-BSED-Filipino,BEED,BSHM,33
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,33
-,,,37
-BSED-English,BSED-Soc Stud,BSHM,46
-BSHM,BSED-Filipino,BEED,39
-BSED-Filipino,BEED,BSED-Soc Stud,35
-BSED-English,BSHM,BSED-Filipino,56
-BEED,BSED-Filipino,BSED-Soc Stud,31
-BSInfoTech,BSED-English,BSHM,37
-BSHM,BSED-Filipino,BSIT-Drafting,40
-BSED-English,BEED,BSHM,25
-BSIT-Automotive,BSHM,,38
-BEED,BSED-Filipino,BSHM,39
-BSED-Filipino,BSHM,BEED,50
-BSIT-Automotive,,,35
-BSED-Filipino,BSHM,BSED-English,38
-BSED-Filipino,BEED,BSHM,32
-BSHM,BSED-Math,BSED-English,30
-BSED-English,BSED-Soc Stud,BSED-Filipino,44
-BSHM,BSIT-Electronics,,24
-BSED-Soc Stud,BSED-English,BSED-Filipino,50
-BSIT-Automotive,BSIT-Electricity,BSIT-Drafting,28
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,29
-BSIT-Electronics,BSInfoTech,BSIT-Electricity,35
-BSIT-Electricity,BSIT-Automotive,BSHM,38
-BSED-English,BSIT-Electronics,BSHM,56
-BSHM,BSED-Filipino,BSED-Soc Stud,32
-BSInfoTech,BEED,BSHM,33
-BSED-English,BSHM,BSInfoTech,31
-BSInfoTech,BSED-Filipino,BSIT-Drafting,36
-BSED-Filipino,BSED-Math,BEED,41
-BEED,BSED-Math,BSHM,45
-BSInfoTech,BSED-English,BSHM,71
-BSED-Filipino,BSED-Soc Stud,BSHM,31
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,35
-BSED-English,BEED,BSED-Filipino,50
-BSHM,BSInfoTech,BEED,42
-,,,31
-BSHM,BSIT-Automotive,BSIT-Electricity,27
-BSHM,BSInfoTech,BSIT-Drafting,44
-BSIT-Automotive,BSIT-Electricity,,26
-BSHM,BSIT-Drafting,BSED-Math,45
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,34
-BEED,BSED-English,BSED-Soc Stud,40
-BSED-English,BEED,BSED-Soc Stud,49
-BSED-Filipino,BSHM,BEED,43
-BSHM,BSIT-Electricity,BSIT-Electronics,38
-BSInfoTech,BSHM,BEED,37
-BSHM,BSED-English,BSED-Filipino,44
-BSHM,BSED-Filipino,BSIT-Automotive,44
-BSIT-Automotive,BSInfoTech,BSIT-Electricity,31
-BSIT-Automotive,BSIT-Electronics,BSIT-Drafting,32
-BSHM,BSInfoTech,BEED,32
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,30
-BEED,BSInfoTech,BSED-English,36
-BSED-Math,BSHM,BSED-English,55
-BSED-Math,BSED-Filipino,BSED-Soc Stud,40
-BSIT-Electricity,BSIT-Drafting,BSIT-Automotive,44
-BSIT-Automotive,BSIT-Drafting,BSIT-Electronics,59
-BSInfoTech,BSED-Filipino,BSHM,35
-BSIT-Electricity,BSIT-Automotive,BSED-Math,35
-BSED-English,BSED-Filipino,BEED,55
-BSHM,BSInfoTech,BSIT-Automotive,28
-BSHM,BEED,BSIT-Drafting,31
-BSED-Filipino,BSED-Soc Stud,BSED-Math,43
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,35
-BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,32
-BSHM,,,32
-BSED-English,BEED,BSInfoTech,52
-BSInfoTech,BEED,BSED-English,37
-BSHM,BSInfoTech,BSED-Filipino,34
-BSHM,BSIT-Electricity,BSED-Filipino,26
-BSED-English,BSED-Soc Stud,BSHM,41
-BSHM,BSED-Soc Stud,BSED-English,16
-BSED-Filipino,BEED,,29
-BSHM,BEED,BSED-Filipino,58
-BEED,BSED-Filipino,BSInfoTech,25
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,26
-BSED-Filipino,BSHM,BEED,55
-BSED-Filipino,BEED,BSED-English,35
-BSED-Filipino,BSHM,BSInfoTech,36
-BSED-Filipino,BEED,BSHM,30
-BSHM,BSED-Math,BSED-Filipino,29
-BSED-English,BSHM,BSInfoTech,38
-BSED-English,BSED-Filipino,BSED-Soc Stud,43
-BSInfoTech,BSHM,BEED,81
-BSIT-Electronics,BSHM,BSIT-Electricity,40
-BSHM,BSIT-Automotive,BSIT-Electricity,35
-BSInfoTech,BSIT-Automotive,BSHM,34
-BSInfoTech,BSIT-Automotive,BSHM,34
-BSED-Filipino,BSHM,BSIT-Electricity,42
-BSED-Filipino,BSHM,BEED,32
-BSED-Filipino,BSHM,BSED-Soc Stud,44
-BSHM,BSIT-Electricity,BSIT-Automotive,45
-BSHM,BSInfoTech,BSED-English,45
-BSHM,BSInfoTech,BSIT-Drafting,35
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,33
-BSED-Math,BSED-Soc Stud,BSInfoTech,40
-BSHM,BSED-Filipino,BSED-Math,36
-BSIT-Drafting,BSHM,BSInfoTech,28
-BSIT-Electricity,BSHM,BSIT-Drafting,30
-,,,28
-BSED-Soc Stud,BEED,BSED-Filipino,50
-BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,39
-BEED,BSHM,BSInfoTech,51
-BSED-Filipino,BSIT-Drafting,BSInfoTech,48
-BSInfoTech,BSIT-Drafting,BSHM,36
-BSInfoTech,BSIT-Drafting,BSIT-Electronics,31
-BSED-Filipino,BSHM,BSED-English,47
-BSHM,BSIT-Electronics,BSIT-Automotive,31
-BSInfoTech,BEED,BSED-Filipino,29
-BSInfoTech,,,68
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,38
-BSHM,BSED-English,BSED-Soc Stud,47
-BSHM,BSIT-Automotive,BSIT-Electronics,39
-BSIT-Automotive,,,34
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,33
-BSED-Filipino,BSHM,BSInfoTech,42
-BSHM,BSInfoTech,BSED-Filipino,24
-BSInfoTech,BSHM,BSIT-Drafting,25
-BSED-Filipino,BSED-English,BEED,57
-BSED-Filipino,BSED-English,BSED-Soc Stud,38
-BSED-Filipino,BEED,BSInfoTech,36
-BSED-Math,BSInfoTech,BSED-Filipino,58
-BSHM,BSED-English,BSInfoTech,35
-BSIT-Automotive,BSIT-Electricity,,24
-BSInfoTech,BSIT-Electronics,BSIT-Electricity,32
-BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,32
-BSED-Math,BEED,BSED-Filipino,35
-BSIT-Automotive,BSInfoTech,BSED-Soc Stud,35
-BSHM,BSInfoTech,BSED-Filipino,25
-BSED-Math,BSIT-Electronics,BSED-Soc Stud,33
-BSHM,BEED,BSED-Filipino,25
-BSIT-Electricity,BSInfoTech,BSIT-Automotive,32
-BSIT-Drafting,BSIT-Electricity,BSInfoTech,33
-BSIT-Electronics,BSInfoTech,BSIT-Electricity,36
-BSIT-Automotive,BSIT-Electricity,BSInfoTech,25
-BSHM,BEED,BSED-Filipino,35
-BSHM,BSIT-Automotive,BSInfoTech,25
-,,,28
-BSIT-Automotive,BSHM,BSIT-Electricity,35
-BSHM,BSIT-Automotive,BSIT-Electricity,29
-BSInfoTech,BSHM,BSIT-Drafting,31
-BSHM,BSED-Soc Stud,BSED-Filipino,31
-BSHM,BSED-Soc Stud,BSED-English,40
-BSInfoTech,BSHM,BSED-Filipino,36
-BSHM,BSInfoTech,BSIT-Drafting,39
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,29
-BSHM,BSInfoTech,BSED-English,34
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,45
-BSED-Filipino,BSED-English,BSED-Soc Stud,28
-BSIT-Automotive,BSIT-Electricity,BEED,33
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,40
-BSInfoTech,BSIT-Automotive,BSHM,46
-BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,38
-BEED,BSED-Filipino,BSHM,36
-BSHM,BSED-Filipino,BSInfoTech,21
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,30
-BSHM,BSED-Filipino,BSED-Soc Stud,31
-BSInfoTech,BSIT-Automotive,BSHM,28
-BSED-Filipino,BSED-Soc Stud,BSHM,44
-BSHM,BSIT-Drafting,BSIT-Electronics,52
-BSHM,BSIT-Automotive,BSIT-Electronics,31
-BSED-Filipino,BSHM,BSED-Math,28
-BEED,BSHM,BSInfoTech,50
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,32
-BSInfoTech,BSHM,BSIT-Automotive,44
-BSED-Filipino,BEED,BSHM,41
-BSHM,BSED-English,BSInfoTech,34
-BSED-Filipino,BSIT-Electricity,BSIT-Electronics,32
-BEED,BSED-Filipino,BSHM,34
-BSED-English,BEED,BSInfoTech,59
-BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,26
-BSHM,BSInfoTech,BSED-Filipino,36
-BSIT-Drafting,BSInfoTech,BSIT-Automotive,59
-BSED-Filipino,BSED-Soc Stud,BSED-English,40
-BEED,BSED-Filipino,BSED-English,25
-BSIT-Automotive,BSHM,BSIT-Electricity,26
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,35
-BSIT-Electricity,BSIT-Drafting,BSIT-Automotive,25
-BSED-Math,BSHM,BSED-Filipino,39
-BSInfoTech,BSIT-Automotive,BSHM,24
-BSED-Filipino,BSIT-Automotive,BSIT-Electricity,33
-BSHM,BSInfoTech,BSIT-Automotive,30
-BSHM,BSInfoTech,BSIT-Drafting,59
-BSED-Math,BSInfoTech,BSHM,57
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,33
-BSIT-Drafting,BSInfoTech,BSHM,38
-BSED-Filipino,BEED,BSED-English,55
-BSHM,BSED-Math,BSIT-Electronics,29
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,30
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,37
-BSHM,BSED-Filipino,BEED,29
-BSInfoTech,BSED-Math,BSIT-Automotive,37
-BSHM,BSED-Math,BSInfoTech,43
-BSED-English,BSED-Filipino,BEED,64
-BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,27
-BSInfoTech,BSED-Filipino,BEED,29
-BSED-Math,BSHM,BSED-Filipino,34
-BSHM,BSED-Filipino,BSIT-Electricity,34
-BSHM,BSED-Filipino,BSED-English,43
-BEED,BSED-English,BSED-Soc Stud,37
-BSED-Filipino,BSIT-Electricity,BSIT-Automotive,36
-,,,34
-BEED,BSED-English,BSED-Math,43
-BSInfoTech,BSHM,BSED-Filipino,38
-BSED-English,BSInfoTech,BSHM,35
-BSHM,BSIT-Electricity,BEED,34
-BSHM,BSIT-Electricity,BSIT-Automotive,45
-BSHM,BSInfoTech,BSED-Filipino,36
-BSIT-Electricity,BSIT-Electronics,BSHM,37
-BEED,BSHM,BSInfoTech,26
-BSED-Math,BSED-English,BSED-Filipino,59
-BSIT-Automotive,BSIT-Electricity,BSHM,40
-BSED-English,BSHM,BSInfoTech,40
-BSHM,BSED-Filipino,BEED,47
-BSHM,BSInfoTech,BSED-Filipino,31
-BSHM,BSED-English,BSED-Soc Stud,30
-BSHM,BSED-Filipino,BSInfoTech,23
-BSED-Filipino,BEED,BSHM,38
-BSHM,BSED-English,BSInfoTech,55
-BSInfoTech,,,35
-BEED,BSInfoTech,,43
-BSHM,,,35
-BSHM,BSED-Filipino,BSInfoTech,28
-BSED-Filipino,BSHM,BSED-English,39
-BSHM,BSIT-Automotive,BSIT-Electricity,36
-BSED-Math,BSHM,BEED,44
-BSInfoTech,BSHM,BSED-Soc Stud,61
-BSInfoTech,BSHM,BSIT-Drafting,41
-BSED-English,BSED-Filipino,BSHM,47
-BSHM,BSIT-Automotive,BSIT-Electricity,29
-BSHM,BEED,BSED-Filipino,33
-BSHM,BSInfoTech,BSED-English,47
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,35
-BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,27
-BSHM,BSInfoTech,BSED-Filipino,34
-BEED,,,85
-BSHM,BSInfoTech,BSED-Math,30
+First Priority,Second Priority,Third Priority,Score,Year
+BSIT-Automotive,BSIT-Electronics,BSInfoTech,36,2023
+BSHM,BEED,BSInfoTech,37,2023
+BSHM,BSInfoTech,BEED,52,2023
+BSIT-Electricity,BSIT-Automotive,BSInfoTech,29,2023
+BSInfoTech,BSHM,BSIT-Electricity,28,2023
+BSED-Soc Stud,BSInfoTech,BSHM,48,2023
+BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,30,2023
+BSHM,BSInfoTech,BSED-English,32,2023
+BSHM,BSInfoTech,BEED,41,2023
+BSHM,BSInfoTech,BSIT-Electronics,36,2023
+BSInfoTech,BEED,BSIT-Drafting,35,2023
+BSInfoTech,BSHM,BSIT-Automotive,55,2023
+BSInfoTech,BSIT-Electricity,BSIT-Drafting,37,2023
+BSIT-Electronics,BSIT-Electricity,BSHM,44,2023
+BSHM,BSInfoTech,BEED,32,2023
+BSIT-Automotive,BSHM,BSIT-Electricity,30,2023
+BEED,BSED-Soc Stud,BSIT-Automotive,39,2023
+BSED-English,BSHM,BSInfoTech,36,2023
+BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,29,2023
+BSHM,BSED-English,,31,2023
+BSInfoTech,BSHM,BSED-Filipino,73,2023
+BSHM,BSED-Soc Stud,BSInfoTech,34,2023
+BSInfoTech,BSED-English,BSHM,51,2023
+BSInfoTech,BSIT-Electronics,,41,2023
+BSED-English,BSHM,BSInfoTech,55,2023
+BSInfoTech,BSED-English,BSED-Filipino,62,2023
+BSHM,BSInfoTech,BSIT-Electronics,61,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,34,2023
+BSHM,BSInfoTech,BSED-Soc Stud,39,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,32,2023
+BSIT-Automotive,BSED-Filipino,BSED-Soc Stud,31,2023
+BSHM,BSED-Soc Stud,BSIT-Drafting,30,2023
+BSHM,BEED,BSED-Filipino,23,2023
+BSIT-Electricity,BSIT-Automotive,,48,2023
+BSED-Math,BSIT-Drafting,BSHM,69,2023
+BSED-Soc Stud,BSED-English,BSED-Filipino,42,2023
+BSHM,BSInfoTech,BSIT-Electricity,44,2023
+BEED,BSED-Filipino,BSHM,28,2023
+BSED-Filipino,BSED-Soc Stud,BSHM,53,2023
+BSInfoTech,BSHM,BSIT-Electronics,33,2023
+BSIT-Electricity,BSIT-Drafting,BSIT-Electronics,23,2023
+BSIT-Electricity,BSIT-Automotive,BSHM,29,2023
+BSIT-Drafting,BSInfoTech,BSHM,19,2023
+BSED-Filipino,BSED-English,BEED,38,2023
+BSInfoTech,BSED-Filipino,BSIT-Drafting,32,2023
+BSHM,BSInfoTech,BSIT-Drafting,35,2023
+BSED-Filipino,BSIT-Drafting,BSIT-Electricity,40,2023
+BSED-Filipino,BSED-Soc Stud,BSInfoTech,38,2023
+BSED-Filipino,BSED-English,BEED,59,2023
+BSED-Filipino,BEED,BSED-Soc Stud,30,2023
+BSHM,BSED-English,BSED-Filipino,40,2023
+BSHM,BSED-Filipino,BEED,44,2023
+BSHM,BSED-Math,BSInfoTech,26,2023
+BSHM,BEED,BSInfoTech,34,2023
+BSED-Filipino,BSInfoTech,BSIT-Electricity,28,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,35,2023
+BSHM,BEED,BSIT-Drafting,34,2023
+BSHM,BSIT-Electricity,BSIT-Automotive,27,2023
+BSED-English,BSED-Filipino,BSED-Soc Stud,32,2023
+BSHM,BSED-English,BEED,42,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,33,2023
+BSHM,BEED,BSInfoTech,35,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,45,2023
+BSIT-Drafting,BSIT-Electronics,BSIT-Electricity,37,2023
+BSHM,,,84,2023
+BSHM,BSIT-Electricity,BSIT-Automotive,45,2023
+BSHM,BSED-Math,BSED-English,58,2023
+BSHM,BEED,BSED-Soc Stud,45,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,26,2023
+BSED-Filipino,BSED-Soc Stud,BEED,36,2023
+BSED-Filipino,BSIT-Drafting,BSED-Math,84,2023
+BSInfoTech,BSED-Filipino,BSHM,36,2023
+BSED-Filipino,BSED-English,BSED-Math,35,2023
+BSHM,BEED,,32,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,36,2023
+BEED,BSIT-Electronics,BSHM,26,2023
+BSED-Soc Stud,BSHM,BSIT-Electricity,48,2023
+BSHM,BSIT-Electronics,BSED-Filipino,30,2023
+BSIT-Electricity,BSIT-Automotive,BSED-Soc Stud,22,2023
+BSHM,BEED,BSInfoTech,36,2023
+BSHM,BSInfoTech,BEED,28,2023
+BEED,BSInfoTech,BSED-English,33,2023
+BEED,BSED-Math,BSHM,41,2023
+BSInfoTech,BSHM,BEED,37,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,42,2023
+BSIT-Drafting,BSIT-Electronics,BSIT-Automotive,25,2023
+BSED-Filipino,BSIT-Drafting,BSIT-Automotive,38,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,27,2023
+BSIT-Drafting,BSInfoTech,BSIT-Automotive,30,2023
+BSHM,BSED-Filipino,BSED-English,28,2023
+BSIT-Electronics,BSIT-Electricity,BSInfoTech,30,2023
+BEED,BSED-Filipino,BSED-Soc Stud,32,2023
+BSED-Filipino,BSHM,BEED,24,2023
+BSHM,BEED,BSED-Filipino,33,2023
+BEED,BSHM,BSED-Filipino,27,2023
+BSED-Filipino,BSED-English,BSED-Soc Stud,31,2023
+BSHM,BSInfoTech,BSIT-Drafting,28,2023
+BSIT-Drafting,BSInfoTech,BSHM,32,2023
+BSIT-Automotive,BSED-Filipino,BSInfoTech,36,2023
+BSHM,BSIT-Automotive,,35,2023
+BSHM,BSInfoTech,BEED,44,2023
+BSIT-Automotive,BEED,BSED-Soc Stud,23,2023
+BEED,BSED-Filipino,BSED-English,33,2023
+BSHM,BSED-Filipino,BSInfoTech,42,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,33,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,36,2023
+BSED-English,BEED,BSHM,49,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,30,2023
+BSHM,BSIT-Automotive,BSED-Filipino,28,2023
+BSHM,,,32,2023
+BSHM,BSED-Soc Stud,BEED,40,2023
+BSHM,BSED-Filipino,BSED-Soc Stud,35,2023
+BSHM,BSInfoTech,BEED,39,2023
+BEED,BSED-Soc Stud,BSED-English,29,2023
+BSHM,BSIT-Drafting,BSIT-Automotive,35,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,33,2023
+BEED,BSED-Filipino,BSHM,31,2023
+BEED,BSHM,BSED-Filipino,39,2023
+BSED-English,BSHM,BSED-Filipino,57,2023
+BSHM,BSInfoTech,BEED,25,2023
+BSIT-Automotive,BSIT-Electronics,,36,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,33,2023
+BSIT-Automotive,BSHM,BSIT-Electronics,30,2023
+BSHM,BSIT-Drafting,BSED-Filipino,32,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,40,2023
+BEED,BSED-Soc Stud,BSHM,45,2023
+BSIT-Electricity,BSED-English,BSHM,41,2023
+BSED-English,BSHM,BSInfoTech,37,2023
+BSInfoTech,BSIT-Drafting,BSIT-Automotive,31,2023
+BSInfoTech,BSHM,BSIT-Drafting,30,2023
+BSHM,BSED-Filipino,BSInfoTech,29,2023
+BSED-Filipino,BEED,BSED-Soc Stud,28,2023
+BSHM,BSInfoTech,BSED-Filipino,34,2023
+BSED-Filipino,BSED-Soc Stud,BSHM,43,2023
+BSED-English,BSED-Filipino,BSHM,25,2023
+BEED,BSHM,BSED-Soc Stud,35,2023
+BSED-Filipino,BSED-English,BSHM,33,2023
+BSHM,BEED,BSED-Filipino,32,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,32,2023
+BSHM,BSInfoTech,BEED,24,2023
+BSIT-Automotive,BSIT-Drafting,BSIT-Electronics,29,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,15,2023
+BSED-Math,BEED,,41,2023
+BSED-English,BSED-Filipino,BSED-Math,25,2023
+BSHM,BSInfoTech,BSED-Filipino,35,2023
+BSED-Filipino,BSHM,BSED-English,37,2023
+BSED-Filipino,BSED-Soc Stud,BEED,25,2023
+BSHM,BSInfoTech,BEED,34,2023
+BSIT-Automotive,BSIT-Drafting,BSInfoTech,27,2023
+BSInfoTech,BSHM,BSED-Math,44,2023
+BSED-Soc Stud,BEED,BSIT-Electronics,55,2023
+BSED-Filipino,BEED,BSHM,37,2023
+BSED-Filipino,BSIT-Automotive,BSIT-Electricity,30,2023
+BSHM,BSED-Filipino,BEED,50,2023
+BSIT-Drafting,BSIT-Automotive,BSHM,28,2023
+BSED-Filipino,BSED-Soc Stud,BSHM,37,2023
+BSHM,BSIT-Electricity,BSInfoTech,35,2023
+BSED-Math,BSED-Filipino,BEED,51,2023
+BSED-English,BSED-Filipino,BSHM,37,2023
+BEED,BSED-Filipino,BSED-Soc Stud,34,2023
+BSHM,BSIT-Drafting,BSInfoTech,74,2023
+BEED,BSED-Filipino,BSED-English,23,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,27,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,41,2023
+BSHM,BEED,BSIT-Electronics,29,2023
+BEED,BSED-Soc Stud,BSED-Filipino,24,2023
+BSHM,BSED-Soc Stud,BSInfoTech,26,2023
+BSED-Filipino,BEED,BSIT-Electronics,26,2023
+BEED,BSHM,BSInfoTech,32,2023
+BSED-Filipino,BSED-Soc Stud,BSED-English,40,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,24,2023
+BSHM,BEED,BSInfoTech,40,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,34,2023
+BSED-Filipino,BSED-English,BSInfoTech,38,2023
+BSHM,BSInfoTech,BSED-Filipino,35,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,34,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Drafting,26,2023
+BSED-Filipino,BEED,BSED-English,30,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,24,2023
+BEED,BSHM,BSInfoTech,29,2023
+BEED,BSED-Math,BSED-Soc Stud,44,2023
+BSInfoTech,BSIT-Automotive,BSHM,49,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,26,2023
+BSED-Filipino,BSED-English,BEED,35,2023
+BSInfoTech,BSHM,BSED-Math,40,2023
+BSED-English,BSED-Soc Stud,BSED-Filipino,34,2023
+BSIT-Automotive,BSInfoTech,BSIT-Electricity,37,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,35,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,43,2023
+BSED-Filipino,BSInfoTech,BSHM,28,2023
+BSInfoTech,BSIT-Electricity,BSIT-Electronics,29,2023
+BSED-Soc Stud,BSED-English,BSHM,43,2023
+BSHM,BSED-Filipino,BSInfoTech,62,2023
+BSInfoTech,BSED-Filipino,BEED,35,2023
+BSED-English,BSInfoTech,BSED-Filipino,55,2023
+BSHM,BSED-Filipino,BSInfoTech,27,2023
+BSED-English,BSHM,BSInfoTech,37,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,30,2023
+BSED-Soc Stud,BSED-Filipino,BSHM,47,2023
+BEED,BSED-English,BSED-Soc Stud,69,2023
+BSIT-Drafting,BEED,BSHM,37,2023
+BSED-Soc Stud,BSED-English,BSED-Filipino,69,2023
+BSHM,BSIT-Automotive,BSED-Filipino,35,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,35,2023
+BSIT-Electronics,BSIT-Automotive,BSHM,24,2023
+BSHM,BEED,BSED-Filipino,40,2023
+BSHM,BSInfoTech,BSIT-Drafting,32,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,26,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,32,2023
+BSHM,BSInfoTech,BSIT-Automotive,46,2023
+BEED,BSIT-Drafting,BSHM,37,2023
+BSInfoTech,BSHM,BSED-Filipino,29,2023
+BSInfoTech,BSIT-Electricity,BSIT-Electronics,26,2023
+BSED-English,BSED-Filipino,BSED-Soc Stud,43,2023
+BSED-Math,BSED-English,BSED-Soc Stud,39,2023
+BSInfoTech,BSIT-Automotive,BSHM,37,2023
+BSED-Math,BSHM,BSInfoTech,52,2023
+BSED-Math,BEED,,34,2023
+BSIT-Drafting,BSIT-Automotive,BSIT-Electronics,35,2023
+BSInfoTech,BSED-English,BSHM,42,2023
+BSHM,BSED-Math,BSInfoTech,26,2023
+BSED-Filipino,BSED-English,BEED,46,2023
+BSInfoTech,BSED-Filipino,BSHM,31,2023
+BSED-Math,BSED-English,BSHM,54,2023
+BSIT-Electronics,BSIT-Automotive,BSIT-Electricity,31,2023
+BSED-English,BSED-Filipino,BSHM,36,2023
+BSIT-Automotive,BSIT-Drafting,BSIT-Electricity,35,2023
+BSED-Soc Stud,BSED-Filipino,BSED-English,66,2023
+BSED-English,BSHM,BSInfoTech,44,2023
+BSHM,BSIT-Electricity,BSIT-Automotive,48,2023
+BSHM,BSInfoTech,BSIT-Automotive,38,2023
+BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,34,2023
+BSED-Filipino,BEED,BSED-English,32,2023
+BSHM,BSInfoTech,BEED,36,2023
+BSED-Filipino,BEED,BSED-Soc Stud,35,2023
+BSED-Filipino,BEED,BSInfoTech,30,2023
+BSInfoTech,BSHM,BSIT-Automotive,49,2023
+BEED,BSHM,BSED-Filipino,42,2023
+BSInfoTech,BSIT-Electricity,BSIT-Electronics,31,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,36,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,32,2023
+BSHM,BSInfoTech,BSIT-Automotive,27,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,23,2023
+BSHM,BSIT-Electronics,BSIT-Automotive,31,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,32,2023
+BSED-Filipino,BEED,BSHM,49,2023
+BSHM,BSInfoTech,BSIT-Drafting,29,2023
+BSED-English,BSED-Soc Stud,BSInfoTech,34,2023
+BSInfoTech,BSHM,BSIT-Electronics,48,2023
+BSInfoTech,BEED,BSED-Filipino,28,2023
+BSHM,BSInfoTech,BSED-English,37,2023
+BSED-English,BSHM,BSED-Filipino,47,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,33,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,22,2023
+BSED-Soc Stud,BSED-Math,BEED,56,2023
+BSED-Soc Stud,BSHM,BEED,42,2023
+BSHM,BSInfoTech,BSIT-Electricity,27,2023
+BSHM,BSIT-Automotive,BSInfoTech,32,2023
+BSHM,BSInfoTech,BSIT-Electricity,29,2023
+BSED-English,BSED-Soc Stud,BSED-Filipino,39,2023
+BSED-Soc Stud,BSHM,BSED-English,29,2023
+BSED-Filipino,BSED-Soc Stud,BSED-Math,44,2023
+BSHM,BSInfoTech,BSED-Soc Stud,33,2023
+BSHM,BSInfoTech,BSIT-Electricity,33,2023
+BEED,BSED-Filipino,BSHM,45,2023
+BSIT-Automotive,,,36,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,23,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,31,2023
+BSHM,BSIT-Electronics,BSInfoTech,46,2023
+BSED-Math,BSIT-Electricity,BEED,35,2023
+BSHM,BSED-Math,BSInfoTech,65,2023
+BSED-Math,BSHM,BEED,24,2023
+BSHM,BSIT-Electronics,BSInfoTech,31,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Drafting,34,2023
+BSHM,BSED-Soc Stud,BSInfoTech,35,2023
+BSED-Filipino,BEED,BSED-Soc Stud,28,2023
+BSHM,BSED-Soc Stud,BSInfoTech,26,2023
+BSIT-Electronics,BSHM,BSIT-Automotive,23,2023
+BSED-English,BSED-Filipino,BEED,43,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,31,2023
+BEED,BSED-Soc Stud,BSED-Filipino,39,2023
+BSHM,BEED,BSED-Filipino,40,2023
+BSED-English,BSED-Filipino,BSED-Soc Stud,48,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,28,2023
+BSIT-Drafting,BSIT-Automotive,BSIT-Electronics,34,2023
+BEED,BSInfoTech,BSHM,58,2023
+BEED,BSED-Filipino,BSHM,32,2023
+BSHM,BSED-Math,BSInfoTech,50,2023
+BSHM,BEED,BSIT-Automotive,32,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,38,2023
+BSED-Filipino,BSInfoTech,BSHM,46,2023
+BEED,BSHM,BSInfoTech,48,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,35,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,39,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,24,2023
+BSIT-Automotive,BSIT-Electronics,BSHM,26,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,25,2023
+BSED-Filipino,BEED,BSED-English,34,2023
+BSED-Filipino,BSHM,BEED,33,2023
+BSInfoTech,BSHM,BSIT-Automotive,24,2023
+BSInfoTech,BSIT-Drafting,BSIT-Electronics,58,2023
+BSInfoTech,BSHM,BSIT-Electronics,29,2023
+BEED,BSHM,BSED-Filipino,31,2023
+BEED,BSED-Soc Stud,BSED-English,36,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,34,2023
+BEED,BSED-English,BSInfoTech,48,2023
+BSInfoTech,BSIT-Electricity,BSHM,41,2023
+BSHM,BSED-Filipino,BSED-English,29,2023
+BSHM,BSED-Filipino,BSInfoTech,34,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,29,2023
+BSInfoTech,BSED-English,BSHM,36,2023
+BSHM,BEED,BSED-English,44,2023
+BSInfoTech,BSIT-Electricity,BSIT-Electronics,26,2023
+BSHM,BSInfoTech,BEED,52,2023
+BSED-English,BSED-Filipino,BEED,49,2023
+BSED-English,BSHM,BSED-Soc Stud,40,2023
+BEED,BSInfoTech,BSHM,30,2023
+BSHM,BEED,BSIT-Drafting,26,2023
+BEED,BSHM,BSInfoTech,26,2023
+BEED,BSHM,BSInfoTech,32,2023
+BSHM,BSED-Math,BSED-Filipino,53,2023
+BSHM,BEED,BSED-Filipino,50,2023
+BSInfoTech,BSIT-Automotive,BSIT-Drafting,35,2023
+BSIT-Automotive,BSIT-Drafting,BSIT-Electricity,47,2023
+BSHM,BSInfoTech,BSIT-Drafting,32,2023
+BSED-English,BEED,BSHM,29,2023
+BSIT-Electronics,BSIT-Automotive,BSIT-Electricity,27,2023
+BSED-Math,BSED-Filipino,BSED-English,56,2023
+BSED-English,BSED-Soc Stud,BSInfoTech,31,2023
+BSED-Filipino,BSHM,BEED,38,2023
+BSHM,BSIT-Electronics,BSIT-Automotive,30,2023
+BSHM,BSInfoTech,BEED,31,2023
+BSHM,BEED,BSInfoTech,31,2023
+BSHM,BSInfoTech,BSIT-Electronics,32,2023
+BSInfoTech,BSED-Filipino,BSHM,46,2023
+BSHM,BSInfoTech,BSIT-Electronics,30,2023
+BSHM,BSInfoTech,BEED,34,2023
+BSED-Soc Stud,BEED,BSED-Filipino,49,2023
+BEED,BSED-Filipino,BSHM,36,2023
+BSED-Filipino,BSInfoTech,BSHM,32,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Drafting,34,2023
+BEED,BSED-Math,BSED-Filipino,40,2023
+BSIT-Electricity,BSIT-Automotive,BSHM,22,2023
+BSHM,BSInfoTech,BSED-Filipino,30,2023
+BSIT-Electricity,BSIT-Automotive,BSHM,28,2023
+BSED-English,BSED-Math,BSIT-Electronics,49,2023
+BSHM,BSInfoTech,BSED-Filipino,33,2023
+BSIT-Automotive,BSIT-Electricity,BEED,34,2023
+BSED-Filipino,BSInfoTech,BSHM,36,2023
+BSHM,BSIT-Electricity,BSIT-Automotive,41,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,40,2023
+BSInfoTech,BSHM,BSIT-Automotive,28,2023
+BSHM,BSInfoTech,BSIT-Drafting,24,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,38,2023
+BSIT-Automotive,BSIT-Drafting,BSIT-Electricity,38,2023
+BSHM,BSInfoTech,BEED,40,2023
+BSED-English,BSED-Filipino,BSHM,48,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,34,2023
+BSHM,BEED,BSInfoTech,38,2023
+BSED-Math,BSHM,BSInfoTech,42,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,27,2023
+BSED-English,BSIT-Drafting,BSED-Filipino,43,2023
+BSInfoTech,BSIT-Electronics,BSED-Filipino,59,2023
+BSInfoTech,BSHM,BSIT-Drafting,26,2023
+BSHM,BSIT-Automotive,BSIT-Electronics,25,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,35,2023
+BSInfoTech,BSIT-Drafting,BSIT-Electronics,39,2023
+BSHM,BSED-English,BSInfoTech,56,2023
+BSHM,BSED-Soc Stud,BSInfoTech,42,2023
+BSED-Filipino,BSInfoTech,BSHM,40,2023
+BSIT-Automotive,BSIT-Electronics,BSInfoTech,29,2023
+BSIT-Automotive,BSHM,BSIT-Electricity,32,2023
+BSIT-Automotive,BSHM,BSIT-Electricity,44,2023
+BSInfoTech,BSHM,BEED,37,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,25,2023
+BSED-English,BSIT-Automotive,BSInfoTech,26,2023
+BSInfoTech,BSHM,BSED-Filipino,31,2023
+BSED-Soc Stud,BSED-Filipino,BSInfoTech,39,2023
+,,,30,2023
+BSED-Soc Stud,BSHM,BSInfoTech,38,2023
+BSHM,BSIT-Automotive,BSIT-Electronics,31,2023
+BSHM,BSED-Filipino,BSInfoTech,26,2023
+BSHM,BSInfoTech,BEED,32,2023
+BSED-Filipino,BSED-English,BSIT-Electricity,35,2023
+BSInfoTech,BSHM,BSED-Filipino,41,2023
+BSHM,BEED,BSED-Math,40,2023
+BSIT-Drafting,BSED-English,BSInfoTech,57,2023
+BSIT-Automotive,BSInfoTech,BSIT-Electronics,25,2023
+BSED-English,BSHM,BSED-Filipino,31,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,34,2023
+BEED,BSED-Filipino,BSED-English,55,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,40,2023
+BSInfoTech,BSHM,BEED,35,2023
+BSED-English,BSED-Soc Stud,BEED,37,2023
+BSHM,BSIT-Automotive,BSInfoTech,32,2023
+BSInfoTech,BSHM,BSED-Math,30,2023
+BSED-Math,BSInfoTech,BSHM,27,2023
+BSHM,BSIT-Automotive,,28,2023
+BSHM,BSIT-Automotive,BSIT-Electronics,30,2023
+BSHM,BSInfoTech,BSIT-Drafting,29,2023
+BSInfoTech,BSIT-Automotive,BSED-Math,69,2023
+BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,31,2023
+BSHM,BSIT-Drafting,BSIT-Electricity,34,2023
+BSED-Filipino,BEED,BSHM,47,2023
+BSHM,BSED-Filipino,BSIT-Electricity,41,2023
+BSIT-Electricity,BSInfoTech,BSHM,38,2023
+BSHM,BSIT-Electronics,BSIT-Automotive,24,2023
+BSHM,BSIT-Automotive,BSIT-Electronics,44,2023
+BSED-English,BSED-Filipino,BSED-Soc Stud,65,2023
+BSHM,BSInfoTech,,31,2023
+BSIT-Automotive,BSHM,BSInfoTech,50,2023
+BSED-English,BSED-Filipino,BEED,33,2023
+BSIT-Electronics,BSIT-Drafting,BSIT-Electricity,37,2023
+BSED-Filipino,BEED,BSED-Soc Stud,30,2023
+BSHM,BSInfoTech,BSED-Filipino,26,2023
+BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,42,2023
+BSInfoTech,BSIT-Automotive,BSIT-Electricity,44,2023
+BSHM,BSIT-Automotive,BSIT-Drafting,22,2023
+BSInfoTech,BSED-Filipino,BEED,30,2023
+BEED,BSHM,BSED-Soc Stud,35,2023
+BSHM,BSInfoTech,BSIT-Automotive,29,2023
+BSED-Filipino,BSInfoTech,BSHM,29,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,31,2023
+BSED-Filipino,BEED,BSInfoTech,30,2023
+BSED-English,BSED-Filipino,BSHM,26,2023
+BSHM,BSED-Math,BEED,51,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,28,2023
+BSHM,BEED,BSInfoTech,45,2023
+BSHM,BSInfoTech,BEED,22,2023
+BSHM,BSED-Filipino,BSIT-Electricity,31,2023
+BSHM,BSInfoTech,BSED-Filipino,61,2023
+BSHM,BEED,BSInfoTech,61,2023
+BSInfoTech,BSIT-Electronics,BSIT-Electricity,51,2023
+,,,28,2023
+BSED-Math,BEED,BSIT-Automotive,29,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,38,2023
+,,,37,2023
+BSED-Filipino,BSInfoTech,BSIT-Automotive,28,2023
+BSED-Soc Stud,BSHM,BSInfoTech,35,2023
+BEED,BSIT-Automotive,BSIT-Electricity,36,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,36,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,38,2023
+BSIT-Electricity,BSIT-Drafting,BSHM,34,2023
+BSIT-Automotive,BSInfoTech,BSIT-Drafting,42,2023
+BSIT-Automotive,,,46,2023
+BSInfoTech,BSED-English,BSHM,48,2023
+BSED-Filipino,BSED-English,BSED-Soc Stud,30,2023
+BSInfoTech,,,39,2023
+BSHM,BSInfoTech,BSED-Filipino,37,2023
+BSHM,BSIT-Automotive,BSInfoTech,28,2023
+BSHM,BSED-English,BSInfoTech,51,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,32,2023
+BSED-English,BSED-Filipino,BSED-Math,31,2023
+BSHM,BSED-English,BSInfoTech,32,2023
+BSHM,BSInfoTech,BSED-Filipino,27,2023
+BSHM,BSIT-Drafting,BEED,31,2023
+BSHM,BEED,BSInfoTech,32,2023
+BSED-English,BSHM,BSED-Math,24,2023
+BSED-Math,BSED-Filipino,BSHM,32,2023
+BSHM,BSInfoTech,BSIT-Automotive,28,2023
+BSHM,BSInfoTech,BSED-Filipino,31,2023
+BSHM,BSIT-Electronics,BSInfoTech,32,2023
+BSInfoTech,,,28,2023
+BSIT-Electricity,BSIT-Automotive,,31,2023
+BSIT-Drafting,BEED,BSED-English,33,2023
+BSHM,BEED,BSInfoTech,26,2023
+BSIT-Automotive,BSInfoTech,BSIT-Electricity,32,2023
+BSInfoTech,BSHM,BEED,34,2023
+BSHM,BEED,BSInfoTech,32,2023
+BSIT-Automotive,BSHM,BSInfoTech,31,2023
+BSHM,BSIT-Electronics,BSIT-Automotive,52,2023
+BSED-English,BEED,BSHM,26,2023
+BSHM,BSInfoTech,BSED-Filipino,52,2023
+BSInfoTech,BSED-English,BSED-Filipino,61,2023
+BSHM,BEED,BSInfoTech,30,2023
+BSHM,BSInfoTech,BSED-Filipino,27,2023
+BSInfoTech,BSHM,BEED,28,2023
+BSED-Filipino,BSED-English,BSED-Math,27,2023
+BSHM,BSED-Filipino,BSED-Soc Stud,28,2023
+BSInfoTech,BSED-English,BSIT-Drafting,40,2023
+BSED-Filipino,BSHM,BSInfoTech,25,2023
+BSED-English,BSED-Filipino,BSED-Soc Stud,39,2023
+BSED-English,BSED-Filipino,BEED,44,2023
+BSInfoTech,BSHM,BSIT-Automotive,37,2023
+BSED-Filipino,BSED-Soc Stud,BEED,36,2023
+BSHM,BSInfoTech,BSED-Filipino,30,2023
+BEED,BSHM,BSED-Filipino,41,2023
+BSED-Filipino,BSED-English,BSED-Soc Stud,34,2023
+BSED-English,BSED-Filipino,BSED-Soc Stud,43,2023
+BSED-Soc Stud,BSED-Filipino,BSHM,46,2023
+BSHM,BSED-Math,,31,2023
+BSHM,BSInfoTech,BSED-Math,32,2023
+BSED-Soc Stud,BSED-Filipino,BSHM,44,2023
+BSInfoTech,BSED-English,BSHM,58,2023
+BSED-English,BSInfoTech,BSHM,28,2023
+BSIT-Automotive,BSED-Filipino,BSIT-Electricity,25,2023
+BSInfoTech,BSIT-Electronics,BSIT-Electricity,49,2023
+BSHM,BEED,BSED-Filipino,30,2023
+BSED-Filipino,BSHM,BSInfoTech,29,2023
+BSED-Soc Stud,BSED-Filipino,BSED-English,31,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,30,2023
+BSHM,BSED-Math,BSIT-Automotive,21,2023
+BSIT-Drafting,BSHM,BSED-Filipino,33,2023
+BSHM,BSInfoTech,BSIT-Drafting,35,2023
+BSHM,BSED-Filipino,BSInfoTech,41,2023
+BSED-English,BSED-Soc Stud,BEED,32,2023
+BSHM,BSInfoTech,BEED,36,2023
+,,,31,2023
+BSInfoTech,BEED,BSED-Filipino,28,2023
+,,,36,2023
+BEED,BSED-Filipino,BSHM,39,2023
+BSInfoTech,BSED-Soc Stud,BSHM,59,2023
+BSED-Soc Stud,BSED-Filipino,BSED-English,52,2023
+BEED,BSED-Soc Stud,BSED-Filipino,33,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,28,2023
+BSHM,BSInfoTech,BSIT-Automotive,56,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,39,2023
+BSHM,BSInfoTech,BEED,30,2023
+BSED-Filipino,BSED-English,BSIT-Drafting,45,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,32,2023
+BEED,BSInfoTech,BSIT-Automotive,32,2023
+BSHM,BEED,BSIT-Electronics,34,2023
+BSInfoTech,BSED-Filipino,BSIT-Electronics,40,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,23,2023
+BSHM,,,30,2023
+BSHM,BSED-Filipino,BSED-Soc Stud,41,2023
+BSHM,BSInfoTech,BSED-English,47,2023
+BSIT-Electricity,BSIT-Automotive,BSHM,37,2023
+BEED,BSED-Filipino,BSInfoTech,40,2023
+BSHM,BSED-Filipino,BSIT-Electricity,33,2023
+BSInfoTech,BSHM,,50,2023
+BSHM,BEED,BSED-Filipino,41,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,28,2023
+BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,41,2023
+BSHM,BEED,BSED-Filipino,21,2023
+BSHM,BSIT-Electricity,BSED-English,33,2023
+BSED-Filipino,BSHM,BSInfoTech,35,2023
+BSHM,BSED-Filipino,BSED-English,33,2023
+BSED-Filipino,BSED-Soc Stud,BSED-English,69,2023
+BSED-Filipino,BSHM,BSInfoTech,33,2023
+BSHM,BSIT-Automotive,BSED-English,34,2023
+BSED-Math,BSIT-Electricity,BSInfoTech,30,2023
+BSHM,BSIT-Electronics,BEED,35,2023
+BSInfoTech,BSIT-Automotive,BSIT-Electricity,71,2023
+BSIT-Electricity,BSED-Math,BSED-English,38,2023
+BSED-Filipino,BEED,BSInfoTech,39,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,27,2023
+BSInfoTech,BSIT-Drafting,BSHM,54,2023
+BSInfoTech,BSIT-Automotive,,35,2023
+BSHM,BEED,BSIT-Drafting,35,2023
+BSHM,BSIT-Automotive,BSIT-Electronics,42,2023
+BSInfoTech,BSED-English,BSED-Filipino,53,2023
+BSED-Filipino,BSED-English,BEED,60,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,28,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Drafting,45,2023
+BSED-Soc Stud,BSED-Filipino,BSED-English,53,2023
+BSHM,BEED,BSED-Filipino,33,2023
+BSHM,BSInfoTech,BSED-Soc Stud,35,2023
+BSInfoTech,BSIT-Electronics,BSHM,52,2023
+BSHM,BSInfoTech,BSIT-Electricity,36,2023
+BSInfoTech,BSHM,BEED,27,2023
+BSHM,BSED-English,BSInfoTech,50,2023
+BSHM,BSInfoTech,BSED-English,37,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,31,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,34,2023
+BSHM,BSED-Filipino,BEED,31,2023
+,,,30,2023
+BSInfoTech,BSIT-Automotive,BSIT-Electricity,29,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Drafting,32,2023
+BSED-Soc Stud,BSED-Filipino,BSHM,68,2023
+BSHM,BSInfoTech,BSED-English,57,2023
+BSInfoTech,BSHM,BSIT-Electronics,70,2023
+BSHM,BSInfoTech,BSIT-Drafting,40,2023
+BSInfoTech,BSHM,BSIT-Drafting,35,2023
+BSIT-Electricity,BSInfoTech,BEED,38,2023
+BSED-Filipino,BSED-Soc Stud,BEED,57,2023
+BSHM,BSIT-Electricity,BSIT-Automotive,41,2023
+BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,20,2023
+BSInfoTech,BSIT-Automotive,BSIT-Electronics,40,2023
+BSInfoTech,BSIT-Drafting,BSED-Filipino,33,2023
+BSED-Filipino,BSIT-Electronics,BSIT-Electricity,38,2023
+BSHM,BSIT-Automotive,BSED-Filipino,38,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,39,2023
+BSHM,BSInfoTech,BSED-Filipino,29,2023
+,,,28,2023
+BSIT-Drafting,BSHM,BSED-Math,37,2023
+BSHM,BSInfoTech,BSIT-Drafting,43,2023
+BSIT-Electronics,BSIT-Automotive,BSHM,35,2023
+BEED,BSED-Filipino,BSHM,31,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,26,2023
+BSED-Soc Stud,BEED,BSHM,38,2023
+BSED-English,BSED-Soc Stud,BSED-Filipino,51,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,36,2023
+BSInfoTech,BSHM,BSIT-Electronics,23,2023
+BSED-English,BEED,BSED-Filipino,66,2023
+BSED-Filipino,BSInfoTech,BSHM,36,2023
+BSIT-Drafting,BSED-English,BEED,62,2023
+BSED-Filipino,BSHM,BSInfoTech,33,2023
+BSED-Math,BSED-Filipino,BSHM,45,2023
+BSInfoTech,BSHM,BSIT-Drafting,49,2023
+,,,37,2023
+BEED,BSInfoTech,BSIT-Electronics,23,2023
+BSIT-Automotive,BSED-Soc Stud,BSInfoTech,39,2023
+BSED-English,BSED-Filipino,BEED,29,2023
+BSHM,BSInfoTech,BSED-Filipino,28,2023
+BSHM,BSED-English,BSED-Filipino,41,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,31,2023
+BSInfoTech,BSHM,BSED-Filipino,34,2023
+BSED-English,BSED-Filipino,BSED-Soc Stud,51,2023
+BEED,BSHM,BSED-Filipino,30,2023
+BSED-English,BSED-Filipino,BEED,36,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,34,2023
+BSED-English,BEED,,68,2023
+BSHM,BSED-Filipino,BSED-Soc Stud,31,2023
+BSHM,BSED-Filipino,BEED,20,2023
+BSHM,BSED-Filipino,BSED-English,46,2023
+BSHM,BSIT-Automotive,BSED-Filipino,34,2023
+BSInfoTech,BSIT-Drafting,BSIT-Electronics,29,2023
+BSHM,BSInfoTech,BSIT-Electricity,38,2023
+BSHM,BSED-Filipino,BEED,24,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,33,2023
+BSInfoTech,BSHM,BSIT-Automotive,38,2023
+BSInfoTech,BSHM,BEED,35,2023
+BSED-English,BEED,BSHM,68,2023
+BEED,BSInfoTech,BSHM,49,2023
+BSIT-Automotive,BSInfoTech,BSHM,21,2023
+BEED,BSIT-Drafting,BSInfoTech,29,2023
+BSInfoTech,BSED-Filipino,BSHM,35,2023
+BSHM,BEED,BSED-Filipino,34,2023
+BSHM,BSIT-Automotive,BSED-Filipino,33,2023
+BEED,BSHM,BSED-Filipino,35,2023
+BSHM,BEED,BSED-Filipino,49,2023
+BSHM,BSInfoTech,BSED-Filipino,32,2023
+BSHM,BSIT-Drafting,BSIT-Electricity,35,2023
+BSInfoTech,BSED-English,BEED,69,2023
+BSHM,BSInfoTech,BEED,32,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,59,2023
+BSInfoTech,BSHM,BSED-English,55,2023
+BSHM,BSIT-Automotive,BSED-Filipino,27,2023
+BSHM,BSIT-Drafting,BSInfoTech,41,2023
+BSED-Filipino,BSED-Math,BSIT-Electricity,30,2023
+BSIT-Drafting,BSInfoTech,BSIT-Automotive,54,2023
+BEED,BSHM,BSInfoTech,24,2023
+BSIT-Automotive,BSIT-Electronics,BSHM,33,2023
+BSIT-Automotive,BSHM,BSIT-Electricity,28,2023
+BSHM,BSInfoTech,BSIT-Automotive,33,2023
+BSHM,BEED,BSInfoTech,22,2023
+BEED,BSHM,BSInfoTech,38,2023
+BSED-Filipino,BEED,BSHM,37,2023
+BSHM,BSED-Filipino,BEED,35,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,38,2023
+BSED-Filipino,BEED,BSInfoTech,33,2023
+BSIT-Automotive,BSHM,BSInfoTech,34,2023
+BSIT-Automotive,BSHM,BSInfoTech,24,2023
+BSED-Filipino,BEED,BSED-Soc Stud,50,2023
+BSInfoTech,BEED,BSIT-Drafting,38,2023
+BSInfoTech,BEED,BSHM,28,2023
+BSED-Soc Stud,BSED-English,BSED-Filipino,28,2023
+BSHM,BSED-English,BSInfoTech,45,2023
+BSHM,BSInfoTech,BSED-Filipino,39,2023
+BSIT-Automotive,BSIT-Electricity,BSED-Filipino,28,2023
+BSHM,BSIT-Electricity,BSIT-Automotive,36,2023
+BSED-Filipino,BSInfoTech,BEED,32,2023
+BSHM,BSIT-Drafting,BSInfoTech,43,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,37,2023
+BEED,BSED-English,BSED-Soc Stud,52,2023
+BSED-English,BSED-Soc Stud,,57,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,24,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,33,2023
+BSIT-Electricity,BSIT-Electronics,BSInfoTech,22,2023
+BSED-Filipino,BEED,BSED-Soc Stud,45,2023
+BSIT-Automotive,BSInfoTech,BSIT-Electronics,34,2023
+BSED-English,BSED-Soc Stud,BSInfoTech,39,2023
+BSED-Soc Stud,BSHM,BEED,35,2023
+BEED,BSED-Soc Stud,BSHM,40,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,28,2023
+BSHM,BSIT-Electricity,BSIT-Automotive,41,2023
+BSInfoTech,BSHM,BSED-Soc Stud,53,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,37,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,29,2023
+BSHM,BSIT-Automotive,BEED,43,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,46,2023
+BSIT-Electronics,BSIT-Automotive,BSIT-Electricity,37,2023
+BSHM,BSED-English,BSED-Filipino,46,2023
+BSInfoTech,BSHM,BSED-Filipino,38,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,38,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,25,2023
+BSHM,BSED-English,BEED,30,2023
+BSInfoTech,BSHM,BEED,57,2023
+BSInfoTech,BSED-English,BSHM,33,2023
+BSHM,BSInfoTech,BSED-Filipino,35,2023
+BSHM,BSInfoTech,BSED-Filipino,41,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,33,2023
+BSED-Filipino,BEED,BSHM,26,2023
+BSED-Soc Stud,BSInfoTech,BSED-English,85,2023
+BSHM,BSIT-Automotive,BSInfoTech,43,2023
+BSHM,BSInfoTech,BSIT-Electronics,37,2023
+BSED-English,BSED-Filipino,BSHM,39,2023
+BSED-Soc Stud,BSED-English,BSIT-Electronics,63,2023
+BSIT-Automotive,BSED-Filipino,BSIT-Electronics,41,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,63,2023
+BSED-Filipino,BSHM,BSInfoTech,49,2023
+BSInfoTech,BSED-Math,BSHM,47,2023
+BSHM,BSED-Filipino,BSInfoTech,31,2023
+BSHM,BEED,BSInfoTech,32,2023
+BSHM,BSInfoTech,BSED-Filipino,35,2023
+BSED-English,BSHM,BSInfoTech,78,2023
+BSED-English,BSInfoTech,BSHM,47,2023
+BSHM,BSED-Filipino,BEED,31,2023
+BSED-English,BEED,BSED-Soc Stud,34,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,28,2023
+BEED,BSED-Math,BSED-Soc Stud,48,2023
+BSED-Filipino,BSInfoTech,BSHM,38,2023
+BSED-Soc Stud,BSED-Filipino,BEED,50,2023
+BSHM,BSED-Filipino,BEED,45,2023
+BSHM,BSInfoTech,BSIT-Automotive,55,2023
+BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,35,2023
+BSED-Filipino,BEED,BSED-Soc Stud,29,2023
+BEED,BSED-English,BSIT-Drafting,44,2023
+BSIT-Drafting,BSInfoTech,BSIT-Electricity,32,2023
+BSHM,BSIT-Drafting,BSED-Filipino,30,2023
+BSHM,BSIT-Electricity,BSIT-Automotive,29,2023
+BSInfoTech,BSIT-Electricity,BSIT-Electronics,54,2023
+BSED-Filipino,BSInfoTech,BSIT-Automotive,46,2023
+BSIT-Automotive,BSHM,,40,2023
+,,,43,2023
+BSHM,BSIT-Automotive,BSED-Math,38,2023
+BSHM,BSInfoTech,BSED-Filipino,30,2023
+BSInfoTech,BEED,BSED-Soc Stud,33,2023
+BEED,BSED-Filipino,BSHM,34,2023
+BSIT-Electronics,BSIT-Automotive,BSIT-Drafting,27,2023
+BSED-Filipino,BSInfoTech,BSHM,29,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,29,2023
+BSIT-Automotive,BSIT-Electronics,BSInfoTech,39,2023
+BSHM,BSInfoTech,BSED-Filipino,38,2023
+BSED-Soc Stud,BSED-Filipino,BEED,50,2023
+BSIT-Automotive,BSIT-Electricity,BSED-Filipino,36,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,41,2023
+BSIT-Electronics,BSIT-Automotive,BSHM,36,2023
+BSED-Filipino,BSHM,BSInfoTech,32,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,39,2023
+BSInfoTech,BSED-Filipino,BSIT-Electronics,27,2023
+BSED-English,BEED,BSED-Soc Stud,36,2023
+BSIT-Automotive,BSInfoTech,BSHM,28,2023
+BSED-Filipino,BSED-Math,BSInfoTech,50,2023
+BSIT-Drafting,BSED-Math,BSInfoTech,63,2023
+BSIT-Automotive,BSInfoTech,BSHM,35,2023
+BSED-Soc Stud,BEED,BSED-English,39,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,31,2023
+BSHM,BSED-English,BSInfoTech,38,2023
+BSED-Soc Stud,BSED-Filipino,BSED-Math,37,2023
+BSHM,BSED-Filipino,BSInfoTech,35,2023
+BSIT-Drafting,BSED-Filipino,BSIT-Electronics,33,2023
+BSED-Filipino,BSED-Soc Stud,BSInfoTech,29,2023
+BSHM,BSIT-Electronics,BSInfoTech,33,2023
+BEED,BSED-Filipino,BSED-Soc Stud,27,2023
+BSIT-Automotive,BSIT-Electronics,BSHM,31,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,38,2023
+BSED-Math,BSHM,BSED-Filipino,53,2023
+BSInfoTech,BSIT-Electricity,BSED-English,54,2023
+BEED,BSED-Filipino,BSED-English,58,2023
+BSIT-Electricity,BEED,BSIT-Automotive,39,2023
+BEED,BSED-English,BSED-Math,70,2023
+BSED-English,BSED-Filipino,BEED,37,2023
+BSInfoTech,BSHM,BSIT-Automotive,37,2023
+BSED-Soc Stud,BSED-Filipino,BSED-Math,34,2023
+BSInfoTech,BSHM,BSIT-Automotive,32,2023
+BSIT-Electricity,BSIT-Automotive,BSInfoTech,28,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,31,2023
+BSHM,BSInfoTech,BSED-Filipino,23,2023
+BSHM,BSInfoTech,BEED,29,2023
+BSInfoTech,BSIT-Electronics,BSHM,50,2023
+BSHM,BEED,BSED-Filipino,30,2023
+BSED-English,BSED-Filipino,BSHM,31,2023
+BSED-English,BSED-Filipino,BSHM,60,2023
+BSHM,BEED,BSED-Math,35,2023
+BSHM,BEED,BSED-Soc Stud,39,2023
+BSED-Filipino,BSHM,BSInfoTech,22,2023
+,,,32,2023
+BSED-Soc Stud,BSED-Math,BSIT-Automotive,29,2023
+BSHM,BSInfoTech,BSED-Filipino,35,2023
+BSIT-Automotive,BSHM,BSIT-Electricity,31,2023
+BSInfoTech,BSHM,BSED-Filipino,34,2023
+BSED-Math,BSHM,BSED-Filipino,50,2023
+BSInfoTech,BSED-Soc Stud,BSED-Filipino,34,2023
+BSIT-Automotive,BSHM,BSIT-Electricity,38,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,36,2023
+BSED-English,BSED-Filipino,BSHM,32,2023
+BSED-Filipino,BEED,BSInfoTech,28,2023
+BSED-English,BEED,BSED-Filipino,46,2023
+BSIT-Automotive,BSIT-Electronics,,34,2023
+BSHM,BSED-Math,BSED-Soc Stud,21,2023
+BSIT-Drafting,BSIT-Automotive,BSIT-Electricity,38,2023
+BSInfoTech,BSHM,BSED-Filipino,29,2023
+BEED,BSHM,BSInfoTech,30,2023
+BSED-English,BSED-Soc Stud,BSInfoTech,48,2023
+BSED-English,BSED-Filipino,BEED,28,2023
+BSHM,BSED-Filipino,BEED,31,2023
+BEED,BSHM,BSIT-Automotive,33,2023
+BSED-Math,BSInfoTech,BSIT-Electricity,25,2023
+BSHM,BSInfoTech,BEED,27,2023
+BSInfoTech,BSED-Soc Stud,BSED-Filipino,27,2023
+BSED-English,BSED-Math,BSED-Soc Stud,61,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Drafting,28,2023
+BSIT-Automotive,BSIT-Electronics,BSHM,36,2023
+BEED,BSHM,BSED-Filipino,32,2023
+BEED,BSHM,BSInfoTech,40,2023
+BSHM,BSIT-Electricity,BSIT-Electronics,67,2023
+BSHM,BSED-Filipino,BSInfoTech,35,2023
+BSInfoTech,BSHM,,37,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Drafting,28,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Drafting,25,2023
+BSED-Filipino,BSED-Soc Stud,BSInfoTech,41,2023
+BSIT-Electronics,BSIT-Automotive,BSHM,26,2023
+BSED-Filipino,BEED,BSHM,34,2023
+BSHM,BSED-Filipino,BEED,40,2023
+BSED-Filipino,BSED-Soc Stud,BEED,40,2023
+,,,32,2023
+BSED-Filipino,BEED,BSHM,36,2023
+BSIT-Drafting,BSIT-Electricity,BSIT-Automotive,25,2023
+BSED-Math,BSIT-Drafting,BSInfoTech,40,2023
+BSED-Soc Stud,BSIT-Drafting,BSInfoTech,47,2023
+BSHM,BSInfoTech,BSIT-Automotive,28,2023
+BSED-Filipino,BSED-English,BSED-Soc Stud,33,2023
+BSHM,BEED,BSInfoTech,25,2023
+BSED-Soc Stud,BSHM,BSED-Filipino,54,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,36,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,60,2023
+BSED-English,BSED-Filipino,BSED-Soc Stud,42,2023
+BSIT-Drafting,BSHM,BSED-Filipino,28,2023
+BSInfoTech,BSHM,BSED-English,46,2023
+BSInfoTech,BSHM,BSIT-Electricity,35,2023
+BEED,BSED-Filipino,BSHM,56,2023
+BSED-Math,BSED-Soc Stud,BSInfoTech,59,2023
+BSHM,BSInfoTech,BSED-Filipino,32,2023
+BEED,BSED-Soc Stud,BSED-Filipino,36,2023
+BSIT-Electricity,BSInfoTech,BSIT-Drafting,27,2023
+BSInfoTech,BSED-Filipino,BSHM,46,2023
+BSHM,BSIT-Electricity,BSIT-Electronics,29,2023
+BSInfoTech,BSHM,BSED-English,37,2023
+BEED,BSED-Math,BSHM,70,2023
+BSED-Math,BSHM,BSED-Filipino,37,2023
+BSHM,BSED-Filipino,BSInfoTech,42,2023
+BSHM,BSInfoTech,BSED-English,56,2023
+BSED-Soc Stud,BSED-Filipino,BSED-English,40,2023
+BEED,BSInfoTech,BSIT-Automotive,30,2023
+BSHM,BSIT-Automotive,BSED-Filipino,40,2023
+BSIT-Automotive,BSHM,BSIT-Electricity,27,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,36,2023
+BSED-English,BSHM,BSED-Filipino,55,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,40,2023
+BSHM,BSED-English,BSED-Filipino,36,2023
+BEED,BSIT-Electronics,BSHM,22,2023
+BSIT-Automotive,BSIT-Electronics,BSInfoTech,35,2023
+BEED,BSHM,BSInfoTech,27,2023
+BSHM,BSInfoTech,,55,2023
+BEED,BSInfoTech,BSHM,32,2023
+BSED-English,BSED-Soc Stud,BEED,49,2023
+BSED-Soc Stud,BSED-Filipino,BEED,30,2023
+BEED,BSED-Soc Stud,BSHM,33,2023
+BSHM,BSED-Filipino,BSED-Soc Stud,41,2023
+BSHM,BSIT-Electricity,BSIT-Electronics,40,2023
+BSHM,BEED,BSED-Filipino,42,2023
+BSInfoTech,BSHM,BSIT-Electronics,47,2023
+BSIT-Electronics,BSIT-Automotive,BSIT-Electricity,30,2023
+BEED,BSED-Soc Stud,BSED-Filipino,26,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,37,2023
+BEED,BSED-Filipino,BSHM,28,2023
+BSInfoTech,BSIT-Electronics,BSIT-Automotive,44,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,30,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,35,2023
+BSED-Soc Stud,BSIT-Drafting,BSHM,38,2023
+BSInfoTech,BSIT-Drafting,BSIT-Electricity,37,2023
+BSIT-Electricity,BSIT-Automotive,,30,2023
+BSHM,BSInfoTech,BSIT-Drafting,41,2023
+BSHM,BSIT-Electronics,BSIT-Automotive,44,2023
+BSIT-Electronics,BSIT-Electricity,BSInfoTech,24,2023
+BSHM,BSIT-Electricity,BSIT-Automotive,77,2023
+BSHM,BSInfoTech,BSED-Soc Stud,32,2023
+BSHM,BSED-Math,BSInfoTech,29,2023
+BSHM,BEED,BSInfoTech,25,2023
+BEED,BSED-Filipino,BSED-English,35,2023
+BSInfoTech,BSHM,BSED-Filipino,39,2023
+BSHM,BSInfoTech,BSED-Math,39,2023
+BSInfoTech,BSHM,BSED-English,36,2023
+BSED-Filipino,BSED-English,BSED-Soc Stud,42,2023
+BSED-Soc Stud,BSED-Filipino,BEED,32,2023
+BSHM,BSIT-Drafting,BSED-Filipino,35,2023
+BSInfoTech,BSED-Filipino,BSIT-Drafting,39,2023
+BSED-English,BEED,BSED-Soc Stud,49,2023
+,,,31,2023
+BSED-Filipino,BEED,BSED-Soc Stud,34,2023
+BSInfoTech,BSHM,BSED-English,31,2023
+BSHM,BSInfoTech,BSIT-Electricity,25,2023
+BSHM,BSInfoTech,BSED-English,40,2023
+BSInfoTech,BSHM,BSIT-Drafting,37,2023
+BSHM,BEED,BSED-Soc Stud,30,2023
+BSED-Filipino,BEED,BSInfoTech,27,2023
+BSHM,BSIT-Electronics,BSED-Filipino,27,2023
+BSInfoTech,BSHM,BEED,34,2023
+BSED-English,BSHM,BEED,24,2023
+BSHM,BSInfoTech,BSED-Filipino,32,2023
+BSHM,BSED-Soc Stud,BEED,35,2023
+BSHM,BSIT-Automotive,BSInfoTech,34,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,37,2023
+BSInfoTech,BSHM,BEED,51,2023
+BSInfoTech,BSED-English,BSHM,34,2023
+BSED-Math,BEED,BSED-Filipino,30,2023
+BSHM,BSED-Filipino,BSED-Math,33,2023
+BSED-Filipino,BSHM,BEED,31,2023
+BSED-Filipino,BSInfoTech,BEED,29,2023
+BSHM,BSIT-Automotive,BSIT-Electronics,29,2023
+BSHM,BSInfoTech,BEED,33,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,29,2023
+BSHM,,,54,2023
+BSED-Filipino,BSED-Soc Stud,BEED,34,2023
+BSED-English,BSED-Math,BSHM,51,2023
+BSInfoTech,BSIT-Electricity,BSIT-Automotive,47,2023
+BSInfoTech,BEED,BSED-Filipino,38,2023
+BSHM,BSInfoTech,BSIT-Electronics,42,2023
+BSIT-Electricity,BSIT-Electronics,BSInfoTech,39,2023
+BSIT-Electronics,BSIT-Automotive,BSIT-Electricity,27,2023
+BSED-Filipino,BSED-English,BEED,25,2023
+BSHM,BEED,BSInfoTech,31,2023
+BSED-Math,BEED,BSHM,36,2023
+BSED-English,BSHM,BSED-Soc Stud,29,2023
+BSHM,BSED-Soc Stud,BSInfoTech,38,2023
+BSInfoTech,BSHM,BSED-Filipino,40,2023
+BEED,BSHM,BSED-Soc Stud,40,2023
+BSHM,BSInfoTech,BSIT-Electricity,33,2023
+BSHM,BSInfoTech,BSIT-Electricity,37,2023
+BSHM,BSED-Filipino,BEED,29,2023
+BSED-Filipino,BSED-Soc Stud,BSInfoTech,52,2023
+BSIT-Automotive,BSED-Math,BSInfoTech,82,2023
+BSHM,BSIT-Electronics,BSIT-Electricity,36,2023
+BEED,BSHM,BSED-Math,40,2023
+BSInfoTech,BSHM,BSED-Soc Stud,30,2023
+BEED,BSED-English,BSED-Filipino,35,2023
+BSInfoTech,BSED-Math,BSED-English,37,2023
+BSHM,,,36,2023
+BSIT-Automotive,BSIT-Electronics,BSInfoTech,32,2023
+BSInfoTech,BSHM,BSED-Math,42,2023
+BSED-English,BSInfoTech,BSED-Math,52,2023
+BSED-Math,BSED-Filipino,BSIT-Automotive,44,2023
+BSHM,BSInfoTech,BSIT-Automotive,29,2023
+BSED-Filipino,BSED-English,BSED-Soc Stud,46,2023
+BSInfoTech,BSHM,BSED-Soc Stud,33,2023
+BSHM,BSInfoTech,BSIT-Drafting,32,2023
+BSIT-Electricity,BSHM,BSED-Math,28,2023
+BSIT-Electronics,BSIT-Automotive,BSIT-Electricity,33,2023
+BSInfoTech,BSHM,BEED,34,2023
+BSIT-Automotive,BSIT-Drafting,BSIT-Electricity,45,2023
+BSInfoTech,BSIT-Automotive,BSIT-Electricity,27,2023
+BSED-English,BSInfoTech,BSED-Soc Stud,45,2023
+BSED-Filipino,BEED,BSHM,42,2023
+BSED-Soc Stud,BSED-English,BSED-Math,45,2023
+BSIT-Automotive,BSInfoTech,BSIT-Electricity,29,2023
+BSInfoTech,BSHM,BSED-Math,25,2023
+BSHM,BSED-Filipino,BSIT-Automotive,40,2023
+BSInfoTech,BSED-Math,BEED,36,2023
+BSIT-Drafting,BEED,BSHM,34,2023
+BSIT-Drafting,BSIT-Automotive,BSIT-Electricity,30,2023
+BSHM,BEED,BSInfoTech,47,2023
+BSIT-Automotive,BSED-Filipino,BEED,36,2023
+BSED-Filipino,BSHM,BEED,37,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,25,2023
+BSED-Soc Stud,BSHM,BSInfoTech,29,2023
+BSED-English,BSED-Filipino,BSHM,43,2023
+BSInfoTech,BSHM,BSIT-Automotive,26,2023
+BSIT-Automotive,BSHM,BSIT-Electricity,30,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,36,2023
+BSHM,BSInfoTech,BSED-English,32,2023
+BSHM,,,37,2023
+BEED,BSED-Filipino,BSHM,42,2023
+BSIT-Electricity,BSHM,BSIT-Automotive,35,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,31,2023
+BSED-Filipino,BSED-English,BSED-Soc Stud,31,2023
+BSHM,BSInfoTech,BSIT-Automotive,25,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,29,2023
+BSIT-Automotive,BSInfoTech,BSHM,23,2023
+BSED-Filipino,BEED,BSED-Soc Stud,46,2023
+BSIT-Electronics,BSIT-Drafting,BSED-Math,50,2023
+BSED-English,BSED-Filipino,BEED,28,2023
+BSHM,BSED-Filipino,BSED-English,47,2023
+BSIT-Electricity,BSIT-Automotive,BSHM,32,2023
+BSHM,BEED,BSED-English,50,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,34,2023
+BSHM,BSInfoTech,,45,2023
+BEED,BSHM,BSIT-Electricity,27,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,34,2023
+BSIT-Automotive,BSIT-Drafting,BSHM,33,2023
+BSIT-Drafting,BSIT-Electricity,BSIT-Electronics,36,2023
+BSED-Soc Stud,BSInfoTech,BSED-Filipino,24,2023
+BSHM,BSInfoTech,BSED-Soc Stud,52,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,37,2023
+BSHM,BSInfoTech,BSIT-Drafting,29,2023
+BSHM,BEED,BSED-Filipino,45,2023
+BEED,BSHM,BSED-Soc Stud,30,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Drafting,44,2023
+BSHM,BSIT-Automotive,BSIT-Drafting,32,2023
+BSHM,BEED,BSIT-Drafting,38,2023
+BEED,BSIT-Electricity,BSHM,29,2023
+BSHM,BSED-Math,BSED-Soc Stud,35,2023
+BSED-Filipino,BSHM,BSED-Soc Stud,26,2023
+BSHM,BSED-Soc Stud,BSED-English,62,2023
+BSInfoTech,BSHM,BSIT-Drafting,34,2023
+BSED-English,BSHM,BSED-Filipino,31,2023
+BSHM,BEED,BSInfoTech,32,2023
+BSHM,BSInfoTech,BSED-Filipino,39,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,38,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,41,2023
+BSIT-Automotive,,,24,2023
+BSInfoTech,BSIT-Automotive,BSED-Filipino,23,2023
+BSInfoTech,BSHM,BSIT-Electricity,23,2023
+BSHM,BSED-Filipino,BSInfoTech,29,2023
+BSED-English,BEED,BSHM,51,2023
+BSED-Soc Stud,BSHM,BSED-Filipino,45,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,36,2023
+BSHM,BSED-Filipino,BEED,41,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,26,2023
+BSED-English,BSHM,BSIT-Electricity,31,2023
+BSHM,BSED-English,BSInfoTech,26,2023
+BSHM,BSED-English,BSIT-Automotive,29,2023
+BSIT-Electricity,BSIT-Automotive,BSInfoTech,28,2023
+BSHM,BSInfoTech,BSED-English,61,2023
+BSHM,BSED-Filipino,BEED,51,2023
+BSHM,BSED-Filipino,BSInfoTech,34,2023
+BSIT-Automotive,BSED-Math,BSIT-Electronics,38,2023
+BSED-Filipino,BSED-English,BSED-Soc Stud,71,2023
+BSHM,BSInfoTech,BSIT-Automotive,46,2023
+BSED-Soc Stud,BSHM,BSInfoTech,44,2023
+BSHM,BEED,BSED-Filipino,26,2023
+BSHM,BSIT-Electronics,BSIT-Automotive,47,2023
+BSHM,BSIT-Electronics,BSIT-Automotive,38,2023
+BSHM,BSIT-Automotive,BEED,35,2023
+BSED-English,BSED-Math,BSED-Soc Stud,55,2023
+BSHM,BSED-Math,BSInfoTech,42,2023
+BSHM,BSED-Filipino,BSED-Soc Stud,30,2023
+BSHM,BSIT-Automotive,BSIT-Electronics,41,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,33,2023
+BSED-Math,BEED,BSHM,35,2023
+BSHM,BSED-Filipino,BSInfoTech,31,2023
+BSHM,BSInfoTech,BEED,35,2023
+BEED,BSHM,BSED-Filipino,36,2023
+BSHM,BSIT-Automotive,BSED-English,28,2023
+BEED,BSHM,BSED-Filipino,37,2023
+BSIT-Automotive,BSHM,BSInfoTech,24,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,35,2023
+BSED-English,BSHM,BSED-Filipino,37,2023
+BSED-Filipino,BSInfoTech,BSHM,47,2023
+BEED,BSED-English,BSED-Soc Stud,31,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,39,2023
+BSIT-Electronics,BSIT-Automotive,BSInfoTech,39,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,38,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,40,2023
+BSHM,BSInfoTech,BEED,26,2023
+BSHM,BSIT-Automotive,BSInfoTech,31,2023
+BEED,BSED-Soc Stud,BSED-Filipino,52,2023
+BSHM,BSInfoTech,BEED,32,2023
+BSHM,BSED-Filipino,BSED-English,44,2023
+BSInfoTech,BSHM,BEED,58,2023
+BSED-Soc Stud,BSED-Filipino,BSED-English,48,2023
+BSHM,BSIT-Electricity,BSInfoTech,39,2023
+BSED-Filipino,BSInfoTech,BSHM,29,2023
+BEED,BSED-Filipino,BSED-English,64,2023
+BSED-Soc Stud,BSED-Filipino,BEED,33,2023
+BSInfoTech,BSIT-Electronics,BSIT-Drafting,41,2023
+BSHM,BSInfoTech,BEED,28,2023
+BSHM,BSED-Filipino,BSED-English,25,2023
+BSHM,BEED,BSInfoTech,43,2023
+BSHM,BSIT-Electronics,BSIT-Drafting,32,2023
+BSED-English,BSED-Filipino,BSHM,50,2023
+BSInfoTech,BSIT-Electronics,BSED-Filipino,34,2023
+BSHM,BEED,BSInfoTech,34,2023
+BSHM,BSED-Math,BSED-Soc Stud,61,2023
+BSED-Math,BSHM,BSED-Soc Stud,56,2023
+BSHM,BSED-Soc Stud,BSInfoTech,34,2023
+BSInfoTech,BSHM,BSED-Filipino,40,2023
+BSInfoTech,BEED,BSHM,33,2023
+BSInfoTech,BSED-Soc Stud,BSHM,42,2023
+BSHM,BSIT-Electricity,BSED-Filipino,31,2023
+BSIT-Automotive,BSHM,BSInfoTech,27,2023
+BSHM,BSInfoTech,BEED,30,2023
+BSInfoTech,BSHM,BSED-English,35,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,42,2023
+BSED-Soc Stud,BSED-Filipino,BSED-Math,31,2023
+BSIT-Drafting,BSIT-Electronics,BSED-Math,37,2023
+BSHM,BSIT-Automotive,,26,2023
+BSED-Soc Stud,BSHM,BSED-English,48,2023
+BSED-English,BSED-Filipino,BSInfoTech,32,2023
+BSInfoTech,BSHM,BEED,23,2023
+BSED-English,BSHM,BEED,24,2023
+BSIT-Drafting,BSIT-Automotive,BSIT-Electronics,39,2023
+BSInfoTech,BSHM,BEED,32,2023
+BSED-Soc Stud,BSED-Filipino,BSIT-Electronics,37,2023
+BSIT-Drafting,BSIT-Electricity,BSIT-Automotive,29,2023
+BSInfoTech,BSHM,BSED-Filipino,33,2023
+BSInfoTech,BEED,BSIT-Automotive,24,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,31,2023
+BSHM,BSInfoTech,BSED-Filipino,50,2023
+BSInfoTech,BSIT-Drafting,BSIT-Automotive,40,2023
+BSED-Filipino,BEED,BSHM,38,2023
+BSED-English,BSHM,BSED-Filipino,42,2023
+BSIT-Electricity,BSIT-Electronics,BSHM,38,2023
+BSInfoTech,BSIT-Electricity,BSIT-Electronics,44,2023
+BSHM,BSED-English,BSIT-Electricity,39,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,37,2023
+BSHM,BEED,BSED-Soc Stud,41,2023
+BSHM,BSInfoTech,BSED-English,27,2023
+BSED-Filipino,BEED,BSHM,33,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,33,2023
+,,,37,2023
+BSED-English,BSED-Soc Stud,BSHM,46,2023
+BSHM,BSED-Filipino,BEED,39,2023
+BSED-Filipino,BEED,BSED-Soc Stud,35,2023
+BSED-English,BSHM,BSED-Filipino,56,2023
+BEED,BSED-Filipino,BSED-Soc Stud,31,2023
+BSInfoTech,BSED-English,BSHM,37,2023
+BSHM,BSED-Filipino,BSIT-Drafting,40,2023
+BSED-English,BEED,BSHM,25,2023
+BSIT-Automotive,BSHM,,38,2023
+BEED,BSED-Filipino,BSHM,39,2023
+BSED-Filipino,BSHM,BEED,50,2023
+BSIT-Automotive,,,35,2023
+BSED-Filipino,BSHM,BSED-English,38,2023
+BSED-Filipino,BEED,BSHM,32,2023
+BSHM,BSED-Math,BSED-English,30,2023
+BSED-English,BSED-Soc Stud,BSED-Filipino,44,2023
+BSHM,BSIT-Electronics,,24,2023
+BSED-Soc Stud,BSED-English,BSED-Filipino,50,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Drafting,28,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,29,2023
+BSIT-Electronics,BSInfoTech,BSIT-Electricity,35,2023
+BSIT-Electricity,BSIT-Automotive,BSHM,38,2023
+BSED-English,BSIT-Electronics,BSHM,56,2023
+BSHM,BSED-Filipino,BSED-Soc Stud,32,2023
+BSInfoTech,BEED,BSHM,33,2023
+BSED-English,BSHM,BSInfoTech,31,2023
+BSInfoTech,BSED-Filipino,BSIT-Drafting,36,2023
+BSED-Filipino,BSED-Math,BEED,41,2023
+BEED,BSED-Math,BSHM,45,2023
+BSInfoTech,BSED-English,BSHM,71,2023
+BSED-Filipino,BSED-Soc Stud,BSHM,31,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,35,2023
+BSED-English,BEED,BSED-Filipino,50,2023
+BSHM,BSInfoTech,BEED,42,2023
+,,,31,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,27,2023
+BSHM,BSInfoTech,BSIT-Drafting,44,2023
+BSIT-Automotive,BSIT-Electricity,,26,2023
+BSHM,BSIT-Drafting,BSED-Math,45,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,34,2023
+BEED,BSED-English,BSED-Soc Stud,40,2023
+BSED-English,BEED,BSED-Soc Stud,49,2023
+BSED-Filipino,BSHM,BEED,43,2023
+BSHM,BSIT-Electricity,BSIT-Electronics,38,2023
+BSInfoTech,BSHM,BEED,37,2023
+BSHM,BSED-English,BSED-Filipino,44,2023
+BSHM,BSED-Filipino,BSIT-Automotive,44,2023
+BSIT-Automotive,BSInfoTech,BSIT-Electricity,31,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Drafting,32,2023
+BSHM,BSInfoTech,BEED,32,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,30,2023
+BEED,BSInfoTech,BSED-English,36,2023
+BSED-Math,BSHM,BSED-English,55,2023
+BSED-Math,BSED-Filipino,BSED-Soc Stud,40,2023
+BSIT-Electricity,BSIT-Drafting,BSIT-Automotive,44,2023
+BSIT-Automotive,BSIT-Drafting,BSIT-Electronics,59,2023
+BSInfoTech,BSED-Filipino,BSHM,35,2023
+BSIT-Electricity,BSIT-Automotive,BSED-Math,35,2023
+BSED-English,BSED-Filipino,BEED,55,2023
+BSHM,BSInfoTech,BSIT-Automotive,28,2023
+BSHM,BEED,BSIT-Drafting,31,2023
+BSED-Filipino,BSED-Soc Stud,BSED-Math,43,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,35,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,32,2023
+BSHM,,,32,2023
+BSED-English,BEED,BSInfoTech,52,2023
+BSInfoTech,BEED,BSED-English,37,2023
+BSHM,BSInfoTech,BSED-Filipino,34,2023
+BSHM,BSIT-Electricity,BSED-Filipino,26,2023
+BSED-English,BSED-Soc Stud,BSHM,41,2023
+BSHM,BSED-Soc Stud,BSED-English,16,2023
+BSED-Filipino,BEED,,29,2023
+BSHM,BEED,BSED-Filipino,58,2023
+BEED,BSED-Filipino,BSInfoTech,25,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,26,2023
+BSED-Filipino,BSHM,BEED,55,2023
+BSED-Filipino,BEED,BSED-English,35,2023
+BSED-Filipino,BSHM,BSInfoTech,36,2023
+BSED-Filipino,BEED,BSHM,30,2023
+BSHM,BSED-Math,BSED-Filipino,29,2023
+BSED-English,BSHM,BSInfoTech,38,2023
+BSED-English,BSED-Filipino,BSED-Soc Stud,43,2023
+BSInfoTech,BSHM,BEED,81,2023
+BSIT-Electronics,BSHM,BSIT-Electricity,40,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,35,2023
+BSInfoTech,BSIT-Automotive,BSHM,34,2023
+BSInfoTech,BSIT-Automotive,BSHM,34,2023
+BSED-Filipino,BSHM,BSIT-Electricity,42,2023
+BSED-Filipino,BSHM,BEED,32,2023
+BSED-Filipino,BSHM,BSED-Soc Stud,44,2023
+BSHM,BSIT-Electricity,BSIT-Automotive,45,2023
+BSHM,BSInfoTech,BSED-English,45,2023
+BSHM,BSInfoTech,BSIT-Drafting,35,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,33,2023
+BSED-Math,BSED-Soc Stud,BSInfoTech,40,2023
+BSHM,BSED-Filipino,BSED-Math,36,2023
+BSIT-Drafting,BSHM,BSInfoTech,28,2023
+BSIT-Electricity,BSHM,BSIT-Drafting,30,2023
+,,,28,2023
+BSED-Soc Stud,BEED,BSED-Filipino,50,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,39,2023
+BEED,BSHM,BSInfoTech,51,2023
+BSED-Filipino,BSIT-Drafting,BSInfoTech,48,2023
+BSInfoTech,BSIT-Drafting,BSHM,36,2023
+BSInfoTech,BSIT-Drafting,BSIT-Electronics,31,2023
+BSED-Filipino,BSHM,BSED-English,47,2023
+BSHM,BSIT-Electronics,BSIT-Automotive,31,2023
+BSInfoTech,BEED,BSED-Filipino,29,2023
+BSInfoTech,,,68,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,38,2023
+BSHM,BSED-English,BSED-Soc Stud,47,2023
+BSHM,BSIT-Automotive,BSIT-Electronics,39,2023
+BSIT-Automotive,,,34,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,33,2023
+BSED-Filipino,BSHM,BSInfoTech,42,2023
+BSHM,BSInfoTech,BSED-Filipino,24,2023
+BSInfoTech,BSHM,BSIT-Drafting,25,2023
+BSED-Filipino,BSED-English,BEED,57,2023
+BSED-Filipino,BSED-English,BSED-Soc Stud,38,2023
+BSED-Filipino,BEED,BSInfoTech,36,2023
+BSED-Math,BSInfoTech,BSED-Filipino,58,2023
+BSHM,BSED-English,BSInfoTech,35,2023
+BSIT-Automotive,BSIT-Electricity,,24,2023
+BSInfoTech,BSIT-Electronics,BSIT-Electricity,32,2023
+BSIT-Electricity,BSIT-Electronics,BSIT-Automotive,32,2023
+BSED-Math,BEED,BSED-Filipino,35,2023
+BSIT-Automotive,BSInfoTech,BSED-Soc Stud,35,2023
+BSHM,BSInfoTech,BSED-Filipino,25,2023
+BSED-Math,BSIT-Electronics,BSED-Soc Stud,33,2023
+BSHM,BEED,BSED-Filipino,25,2023
+BSIT-Electricity,BSInfoTech,BSIT-Automotive,32,2023
+BSIT-Drafting,BSIT-Electricity,BSInfoTech,33,2023
+BSIT-Electronics,BSInfoTech,BSIT-Electricity,36,2023
+BSIT-Automotive,BSIT-Electricity,BSInfoTech,25,2023
+BSHM,BEED,BSED-Filipino,35,2023
+BSHM,BSIT-Automotive,BSInfoTech,25,2023
+,,,28,2023
+BSIT-Automotive,BSHM,BSIT-Electricity,35,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,29,2023
+BSInfoTech,BSHM,BSIT-Drafting,31,2023
+BSHM,BSED-Soc Stud,BSED-Filipino,31,2023
+BSHM,BSED-Soc Stud,BSED-English,40,2023
+BSInfoTech,BSHM,BSED-Filipino,36,2023
+BSHM,BSInfoTech,BSIT-Drafting,39,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,29,2023
+BSHM,BSInfoTech,BSED-English,34,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,45,2023
+BSED-Filipino,BSED-English,BSED-Soc Stud,28,2023
+BSIT-Automotive,BSIT-Electricity,BEED,33,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,40,2023
+BSInfoTech,BSIT-Automotive,BSHM,46,2023
+BSIT-Electronics,BSIT-Electricity,BSIT-Automotive,38,2023
+BEED,BSED-Filipino,BSHM,36,2023
+BSHM,BSED-Filipino,BSInfoTech,21,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,30,2023
+BSHM,BSED-Filipino,BSED-Soc Stud,31,2023
+BSInfoTech,BSIT-Automotive,BSHM,28,2023
+BSED-Filipino,BSED-Soc Stud,BSHM,44,2023
+BSHM,BSIT-Drafting,BSIT-Electronics,52,2023
+BSHM,BSIT-Automotive,BSIT-Electronics,31,2023
+BSED-Filipino,BSHM,BSED-Math,28,2023
+BEED,BSHM,BSInfoTech,50,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,32,2023
+BSInfoTech,BSHM,BSIT-Automotive,44,2023
+BSED-Filipino,BEED,BSHM,41,2023
+BSHM,BSED-English,BSInfoTech,34,2023
+BSED-Filipino,BSIT-Electricity,BSIT-Electronics,32,2023
+BEED,BSED-Filipino,BSHM,34,2023
+BSED-English,BEED,BSInfoTech,59,2023
+BSIT-Electricity,BSIT-Automotive,BSIT-Electronics,26,2023
+BSHM,BSInfoTech,BSED-Filipino,36,2023
+BSIT-Drafting,BSInfoTech,BSIT-Automotive,59,2023
+BSED-Filipino,BSED-Soc Stud,BSED-English,40,2023
+BEED,BSED-Filipino,BSED-English,25,2023
+BSIT-Automotive,BSHM,BSIT-Electricity,26,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,35,2023
+BSIT-Electricity,BSIT-Drafting,BSIT-Automotive,25,2023
+BSED-Math,BSHM,BSED-Filipino,39,2023
+BSInfoTech,BSIT-Automotive,BSHM,24,2023
+BSED-Filipino,BSIT-Automotive,BSIT-Electricity,33,2023
+BSHM,BSInfoTech,BSIT-Automotive,30,2023
+BSHM,BSInfoTech,BSIT-Drafting,59,2023
+BSED-Math,BSInfoTech,BSHM,57,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,33,2023
+BSIT-Drafting,BSInfoTech,BSHM,38,2023
+BSED-Filipino,BEED,BSED-English,55,2023
+BSHM,BSED-Math,BSIT-Electronics,29,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,30,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,37,2023
+BSHM,BSED-Filipino,BEED,29,2023
+BSInfoTech,BSED-Math,BSIT-Automotive,37,2023
+BSHM,BSED-Math,BSInfoTech,43,2023
+BSED-English,BSED-Filipino,BEED,64,2023
+BSIT-Automotive,BSIT-Electronics,BSIT-Electricity,27,2023
+BSInfoTech,BSED-Filipino,BEED,29,2023
+BSED-Math,BSHM,BSED-Filipino,34,2023
+BSHM,BSED-Filipino,BSIT-Electricity,34,2023
+BSHM,BSED-Filipino,BSED-English,43,2023
+BEED,BSED-English,BSED-Soc Stud,37,2023
+BSED-Filipino,BSIT-Electricity,BSIT-Automotive,36,2023
+,,,34,2023
+BEED,BSED-English,BSED-Math,43,2023
+BSInfoTech,BSHM,BSED-Filipino,38,2023
+BSED-English,BSInfoTech,BSHM,35,2023
+BSHM,BSIT-Electricity,BEED,34,2023
+BSHM,BSIT-Electricity,BSIT-Automotive,45,2023
+BSHM,BSInfoTech,BSED-Filipino,36,2023
+BSIT-Electricity,BSIT-Electronics,BSHM,37,2023
+BEED,BSHM,BSInfoTech,26,2023
+BSED-Math,BSED-English,BSED-Filipino,59,2023
+BSIT-Automotive,BSIT-Electricity,BSHM,40,2023
+BSED-English,BSHM,BSInfoTech,40,2023
+BSHM,BSED-Filipino,BEED,47,2023
+BSHM,BSInfoTech,BSED-Filipino,31,2023
+BSHM,BSED-English,BSED-Soc Stud,30,2023
+BSHM,BSED-Filipino,BSInfoTech,23,2023
+BSED-Filipino,BEED,BSHM,38,2023
+BSHM,BSED-English,BSInfoTech,55,2023
+BSInfoTech,,,35,2023
+BEED,BSInfoTech,,43,2023
+BSHM,,,35,2023
+BSHM,BSED-Filipino,BSInfoTech,28,2023
+BSED-Filipino,BSHM,BSED-English,39,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,36,2023
+BSED-Math,BSHM,BEED,44,2023
+BSInfoTech,BSHM,BSED-Soc Stud,61,2023
+BSInfoTech,BSHM,BSIT-Drafting,41,2023
+BSED-English,BSED-Filipino,BSHM,47,2023
+BSHM,BSIT-Automotive,BSIT-Electricity,29,2023
+BSHM,BEED,BSED-Filipino,33,2023
+BSHM,BSInfoTech,BSED-English,47,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,35,2023
+BSIT-Automotive,BSIT-Electricity,BSIT-Electronics,27,2023
+BSHM,BSInfoTech,BSED-Filipino,34,2023
+BEED,,,85,2023
+BSHM,BSInfoTech,BSED-Math,30,2023
